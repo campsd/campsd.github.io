@@ -880,7 +880,12 @@ footer .wrapper .column h4
 }
 
 @media (max-width: 500px)
-{
+{	
+
+	#boxcontent img {
+	    display: none;
+	}
+
 	#boxcontent2 img {
 	    display: none;
 	}
