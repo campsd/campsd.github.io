@@ -66,7 +66,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-92996543-1', 'auto');
+  ga('create', 'UA-96294499-1', 'auto');
   ga('send', 'pageview');
 
 </script>
@@ -87,7 +87,6 @@
                     <li><a href="index.html#Pub">Publications</a></li>
                     <li><a href="index.html#TA">TA</a></li>
                     <li><a href="index.html#CV">R&eacute;sum&eacute;</a></li>
-                    <li><a href="index.html#Varia">Varia</a></li>
                     <li><a href="index.html#Contact">Contact</a></li>                    
                 </ul>
             </div>
@@ -102,7 +101,6 @@
                     <li><a href="index.html#Pub">Publications</a></li>
                     <li><a href="index.html#TA">TA</a></li>
                     <li><a href="index.html#CV">R&eacute;sum&eacute;</a></li>
-                    <li><a href="index.html#Varia">Varia</a></li>
                     <li><a href="index.html#Contact">Contact</a></li>
                 </ul>
             </nav>
@@ -111,18 +109,14 @@
         	<section id="boxcontent">
         	<h2 class="hidden">Home</h2>
             <article>            	               
-                <img src="img/daanc.jpg" width="75" alt="Daan Camps"/>                
+                <img src="img/daanc.jpg" width="250" alt="Daan Camps" align="left"/>                
                 <h3>Summary</h3>
                 <p>        	
-                    I am working as a PhD researcher in the numerical analysis and applied mathematics group of the computer science department at KU Leuven. I started in September 2015 and my project is supervised by <a href="https://people.cs.kuleuven.be/~raf.vandebril/" target="_blank"><strong>Raf Vandebril</strong></a> and <a href="https://people.cs.kuleuven.be/~karl.meerbergen/" target="_blank"><strong>Karl Meerbergen</strong></a>.
+                    I am working as a PhD researcher in the numerical analysis and applied mathematics division of the computer science department at KU Leuven. I started in September 2015 and my project is supervised by <a href="https://people.cs.kuleuven.be/~raf.vandebril/" target="_blank"><strong>Raf Vandebril</strong></a> and <a href="https://people.cs.kuleuven.be/~karl.meerbergen/" target="_blank"><strong>Karl Meerbergen</strong></a>.
                 </p>
                 <p>&nbsp;</p>
                 <p>
-                    The current focus of my research is on rational Krylov methods, specifically on exploiting matrix structures to efficiently filter and restart a Krylov subspace iteration.
-                </p>
-                <p>&nbsp;</p>
-                <p>
-                    This personal homepage will evolve over time along with the work itself.
+                    The focus of my research is on extended and rational Krylov methods, specifically on exploiting matrix structures to efficiently filter and restart a Krylov subspace iteration.
                 </p>
             </article>
             <br class="clear"/>
@@ -132,40 +126,37 @@
         	<section id="boxcontent2">
         	<h2 class="hidden">PhD</h2>	
         	<article>
-        		<h3 id="PhD">PhD</h3>
-<!--        		<img src="img/ratkryl.png" width="275" alt="Rational Krylov subspace"/>
-        		<p>&nbsp;</p> !-->
-        		<p>The research plan is to study rational Krylov subspace methods. A couple of standard papers describing the rational Krylov method are listed below. 
-        		My goal is to formulate and implement an efficient and elegant method to implicitly restart the subspace iterations. The mechanisms that are being developed will be incorporated into 
-        		algorithms for the computation of matrix functions and for model order reduction. This can be applied to a variety of real-life engineering problems.
+        		<h3 id="PhD research">PhD</h3>
+        		<p>Krylov subspace methods have been widely used throughout scientific computing for a very long time. In the past few decades, generalisations such as rational and extended Krylov methods
+                    have emerged from research. These generalisations are studied further in this PhD where the main focus is on exploiting the structure present in the recurrence matrices. This structure is used to formulate
+                    an algorithm for the implicit restart of the extended Krylov iteration (article in review). This is currently further studied to define mechanisms for the restart of the rational Krylov iteration and the intermediate conversion between standard, extended and rational Krylov subspaces, related to the work from Mach et al. (2013).</p>
         		<p>&nbsp;</p>
-
+                <p> The goal in the second stage of this research project is to apply this to multiple problems in scientific computing. Possible topics are in model order reduction, matrix functions and eigenvalue problems.
+                <p>&nbsp;</p>    
         		<h4>References</h4>
-        		<p>A. Ruhe. Rational Krylov sequence methods for eigenvalue computation. Linear Algebra and its Applications, 58:391-405, 1984.</p>
-        		<p>A. Ruhe. Rational krylov algorithms for nonsymmetric eigenvalue problems, II: Matrix pairs. Linear Algebra and its Applications, 197/198:283-296, 1994.</p>
-        		<p>A. Ruhe. The rational Krylov algorithm for nonsymmetric eigenvalue problems. III: Complex shifts for real matrices. BIT, 34:165-176, 1994.</p>
+        		<p>A. Ruhe. Rational Krylov: A practical algorithm for large sparse nonsymmetric matrix pencils. SIAM Journal on Scientific Computing, 19:1535-1551, 1998.</p>
+                &nbsp;
+                <p>T. Mach, M. Pranic,and R, Vandebril. Computing approximate extended krylov subspaces without explicit inversion. Electronic Transactions on Numerical Analysis, 40:414-435, 2013.</p>
         		<p>&nbsp;</p>
         		
         		<h4>Conferences and workshops</h4>
-        		</p>
         		<ul>
                   <li><span class="italic"><a href="https://ilas2017.math.iastate.edu/"  target="_blank">[2017-July]</a></span> 
         		   &emsp;&emsp;&emsp;&emsp;&thinsp;ILAS 2017 (Planned)
         		  </li>    
                   <li><span class="italic"><a href="https://lirias.kuleuven.be/handle/123456789/559749"  target="_blank">[2016-December]</a></span> 
         		   &emsp;SCK&#8226;CEN  -  Talk: Project Bateman: Status Update
-			  <a href="https://people.cs.kuleuven.be/~daan.camps/pres/SCKCEN/ProjectBateman.pdf" target="_blank"><strong>[Presentation]</strong></a>
+			  <a href="https://campsd.github.io/pres/SCKCEN/ProjectBateman.pdf" target="_blank"><strong>[Presentation]</strong></a>
               <a href="https://github.com/campsd/linear-radau" target="_blank"><strong>[GitHub]</strong></a>
         		  </li>
         		  <li><span class="italic"><a href="http://ilas2016.cs.kuleuven.be/abstract/?aid=364&akey=fd7a673e62a096fec62e71845638c238"  target="_blank">[2016-July]</a></span> 
         		   &emsp;&emsp;&emsp;&emsp;&thinsp;ILAS 2016  -  Talk: Towards a computational efficient, implicitly restarted rational Krylov method
-			  <a href="https://people.cs.kuleuven.be/~daan.camps/pres/ILAS2016/ILAS.html" target="_blank"><strong>[Presentation]</strong></a>
+			  <a href="https://campsd.github.io/pres/ILAS2016/ILAS.html" target="_blank"><strong>[Presentation]</strong></a>
         		  </li>
 			  <li><span class="italic"><a href="https://www.hcm.uni-bonn.de/events/eventpages/2016/wwwhcmuni-bonndehsfasim/low-rank-tensor-techniques-2016/"  target="_blank">[2016-April]</a></span>  
 			  &emsp;&emsp;&emsp;&ensp;&thinsp;Hausdorff school on low-rank tensors
 			  </li>
         		</ul>
-        		</p>
         	</article>
         	<br class="clear"/>
         	</section>
@@ -196,10 +187,10 @@
         	<section id="boxcontent2">
         	<h2 class="hidden">TA</h2>
         	<article>	
-        		<h3 id="TA">TA</h3>
+        		<h3 id="TA">Teaching Assistant</h3>
         		<img src="img/t.jpg" width="950" alt="Teaching"/>
         		<p>&nbsp;</p>
-        		I'm teaching assistant (TA) for:
+        		<p>I'm teaching assistant (TA) for</p>
         		<p>&nbsp;</p>
         		<ul>
 			  <li><p><span class="italic">Numerieke Wiskunde  </span><a href="https://onderwijsaanbod.kuleuven.be/syllabi/n/H01D8BN.htm#activetab=doelstellingen_idm2419984"  target="_blank"> <strong>[B-KUL-H01D8B]</strong></a></p></li>
@@ -217,44 +208,25 @@
         		<img src="img/lowpoly_c.jpg" alt="Resume"/>
         		<p>&nbsp;</p>
         		<h4><strong>Professional experience</strong></h4>
-        		<p><span class="italic">PhD researcher at NATW/CS KU Leuven</span></p>
-        		<p>September 2015-Current</p>
+        		<h5>PhD researcher at NUMA/CS - KU Leuven</h5>
+        		<p>2015-Current</p>
         		<p>&nbsp;</p>
-        		<p><span class="italic">Digital oilfield consultant at <a href="http://www.ipcos.net/" target="_blank">IPCOS</a></span></p>
+        		<h5>Digital oilfield consultant at <a href="http://www.ipcos.net/" target="_blank">IPCOS</a></h5>
         		<p>2013-2015</p>
         		<p>&nbsp;</p>
         		<p>&nbsp;</p>
         		<h4><strong>Education</strong></h4>
-        		<p><span class="italic">MSc in Engineering: Mathematical Engineering</span>, KU Leuven</p>
-        		<p>Thesis: Epileptic seizure monitoring using tensor decomposition techniques <a href="docs/thesis_DaanC_WIT.pdf" target="_blank"><strong>[PDF]</strong></a></p>
+        		<h5>MSc in Engineering: Mathematical Engineering, KU Leuven</h5>
+                <p><strong>Thesis:</strong> Epileptic seizure monitoring using tensor decomposition techniques </p>
         		<p>2011-2013</p>
         		<p>&nbsp;</p>
-        		<p><span class="italic">MSc in Astronomy</span>, KU Leuven</p>
-        		<p>Thesis:  Herschel/PACS observations of water in the carbon-rich AGB star V Hya <a href="docs/thesis_DaanC_Astronomy.pdf" target="_blank"><strong>[PDF]</strong></a></p>
+        		<h5>MSc in Astronomy, KU Leuven</h5>
+        		<p><strong>Thesis:</strong>  Herschel/PACS observations of water in the carbon-rich AGB star V Hya </p>
         		<p>2009-2011</p>
         		<p>&nbsp;</p>
-        		<p><span class="italic">BSc in Physics</span>, Hasselt University</p>
+        		<h5>BSc in Physics, Hasselt University</h5>
         		<p>2006-2010</p>
         		<p>&nbsp;</p>
-        		<p>&nbsp;</p>
-        	</article>
-			</section>
-
-			<section id="boxcontent2">
-        	<h2 class="hidden">Varia</h2>
-        	<article>	
-        		<h3 id="Varia">Varia</h3>
-			<img src="img/glencoe_c.jpg" width="950" alt="Varia"/>
-			<p>&nbsp;</p>
-        		<p>Besides my numerical analysis research, my main interests are:</p>
-        		<p>&nbsp;</p>
-        		<ul>
-        			<li>Astronomy, astrophysics and space exploration</li>
-        			<li>Hiking (the header image is taken in Glen Coe while hiking the West Highland Way during summer 2015)</li>
-        			<li>Handball</li>
-        			<li>Skiing</li>
-        			<li>Photography</li>
-        		</ul>	
         		<p>&nbsp;</p>
         	</article>
 			</section>        	
@@ -265,13 +237,13 @@
         		<h3 id="Contact">Contact</h3>
         		<!--<img src="img/contact.png" width="950" alt="Contact"/>!-->
         		<p>&nbsp;</p>
-        		<p><strong>Email:</strong></p>
+        		<h5>Email:</h5>
         		<p><span class="codedirection">eb.nevueluk.sc@spmac.naad</span></p>
         		<p>&nbsp;</p>
-        		<p><strong>Tel:</strong></p>
+        		<h5>Tel:</h5>
         		<p>+32 16 37 42 76</p>
         		<p>&nbsp;</p>
-        		<p><strong>Address:</strong></p>
+        		<h5>Address:</h5>
         		<p>Departement of Computer Science</p>
      			<p>Office 02.25</p>
       			<p>KU Leuven</p>
@@ -295,7 +267,6 @@
                         <a href="https://be.linkedin.com/in/daan-camps-a9b4b150" target="_blank"><img src="img/linkedin-icon.png" alt="LinkedIn profile" width="25"/></a>
                         <a href="https://twitter.com/CampsDaan" target="_blank"><img src="img/twitter-icon.png" alt="Twitter profile" width="25"/></a>
                         <a href="https://github.com/campsd" target="_blank"><img src="img/Github-color.svg" alt="GitHub profile" width="25"/></a>
-                        <a href="https://www.youtube.com/channel/UCSLadd_dWqKEGlQY_0DAYEw" target="_blank"><img src="img/youtube-icon.png" alt="Youtube channel" width="25"/></a>
                         <a href="mailto:daancamps@gmail.com" target="_blank"><img src="img/gmail-icon.png" alt="Personal mail" width="25"/></a>
                     </div>
                     &copy; Copyright 2017 by Daan Camps. All Rights Reserved.
