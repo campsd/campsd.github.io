@@ -1,0 +1,6 @@
+body { 
+	background-size: 10%; 
+	background-image: url(../img/KULEUVEN.png); 
+	background-position: left bottom; 
+	background-repeat: no-repeat; }
+
