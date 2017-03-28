@@ -5,62 +5,62 @@
 
 <!DOCTYPE HTML>
 <html>
-	<head>
-	<meta name="description" content="Personal webpage of Daan Camps - PhD student at the Numerical Analysis and Applied Mathematics section of the Computer Science department, KU Leuven">
-	<meta name="keywords" content="Daan, Camps, PhD, Personal webpage, KU Leuven, Computer Science, Iterative Methods, Rational Krylov">
-	<meta charset="UTF-8">      
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Daan Camps</title>
-        <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
-        <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
-        <link href="lightbox/css/lightbox.css" rel="stylesheet" />
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans|Baumans' rel='stylesheet' type='text/css'>
-        <link rel="shortcut icon" href="img/icon2.png">
-        <script src="js/vendor/modernizr.min.js"></script>
-        <script src="js/vendor/respond.min.js"></script>
-        
-        <!-- include extern jQuery file but fall back to local file if extern one fails to load !-->
-        <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-        <script type="text/javascript">window.jQuery || document.write('<script type="text/javascript" src="js\/vendor\/1.7.2.jquery.min.js"><\/script>')</script>
-        
-        <script src="lightbox/js/lightbox.js"></script>
-        <script src="js/vendor/prefixfree.min.js"></script>
-        <script src="js/vendor/jquery.slides.min.js"></script>
-        <script src="js/script.js"></script>
-        
-         <script>
-        $(function() {
-          $('#slides').slidesjs({	
-            height: 235,
-            navigation: false,
-            pagination: false,
-            effect: {
-              fade: {
-                speed: 400
-              }
-            },
-            callback: {
-                start: function(number)
-                {			
-                    $("#slider_content1,#slider_content2,#slider_content3").fadeOut(500);
-                },
-                complete: function(number)
-                {			
-                    $("#slider_content" + number).delay(500).fadeIn(1000);
-                }		
-            },
-            play: {
-                active: false,
-                auto: true,
-                interval: 6000,
-                pauseOnHover: false,
-                effect: "fade"
-            }
-          });
-        });
-        </script>
-        
-        <script>
+<head>
+<meta name="description" content="Personal webpage of Daan Camps - PhD student at the Numerical Analysis and Applied Mathematics section of the Computer Science department, KU Leuven">
+<meta name="keywords" content="Daan, Camps, PhD, Personal webpage, KU Leuven, Computer Science, Iterative Methods, Rational Krylov">
+<meta charset="UTF-8">      
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daan Camps</title>
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+<link href="lightbox/css/lightbox.css" rel="stylesheet" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans|Baumans' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="img/icon2.png">
+<script src="js/vendor/modernizr.min.js"></script>
+<script src="js/vendor/respond.min.js"></script>
+
+<!-- include extern jQuery file but fall back to local file if extern one fails to load !-->
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script type="text/javascript" src="js\/vendor\/1.7.2.jquery.min.js"><\/script>')</script>
+
+<script src="lightbox/js/lightbox.js"></script>
+<script src="js/vendor/prefixfree.min.js"></script>
+<script src="js/vendor/jquery.slides.min.js"></script>
+<script src="js/script.js"></script>
+
+ <script>
+$(function() {
+  $('#slides').slidesjs({	
+    height: 235,
+    navigation: false,
+    pagination: false,
+    effect: {
+      fade: {
+        speed: 400
+      }
+    },
+    callback: {
+        start: function(number)
+        {			
+            $("#slider_content1,#slider_content2,#slider_content3").fadeOut(500);
+        },
+        complete: function(number)
+        {			
+            $("#slider_content" + number).delay(500).fadeIn(1000);
+        }		
+    },
+    play: {
+        active: false,
+        auto: true,
+        interval: 6000,
+        pauseOnHover: false,
+        effect: "fade"
+    }
+  });
+});
+</script>
+<!-- Google analytics !-->        
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -68,215 +68,250 @@
 
   ga('create', 'UA-96294499-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 
-        <body>
-        	<header>
-    		<div class="toggleMobile">
-                <span class="menu1"></span>
-                <span class="menu2"></span>
-                <span class="menu3"></span>
-                <span class="menu4"></span>
-                
+<body>
+<header>
+	<div class="toggleMobile">
+	<span class="menu1"></span>
+	<span class="menu2"></span>
+	<span class="menu3"></span>
+	<span class="menu4"></span>        
+	</div>
+
+	<div id="mobileMenu">
+	<ul>
+	    <li><a href="index.html">Home</a></li>
+	    <li><a href="index.html#PhD">PhD</a></li>
+	    <li><a href="index.html#Pub">Publications</a></li>
+	    <li><a href="index.html#TA">TA</a></li>
+	    <li><a href="index.html#CV">R&eacute;sum&eacute;</a></li>
+	    <li><a href="index.html#Contact">Contact</a></li>                    
+	</ul>
+	</div>
+
+	<h1>Daan Camps</h1>
+	<p>PhD Researcher at KU Leuven</p>
+	<p>&nbsp;</p>
+
+	<nav>
+	<h2 class="hidden">Menu</h2>
+	<ul>
+	    <li><a href="index.html">Home</a></li>
+	    <li><a href="index.html#PhD">PhD</a></li>
+	    <li><a href="index.html#Pub">Publications</a></li>
+	    <li><a href="index.html#TA">TA</a></li>
+	    <li><a href="index.html#CV">R&eacute;sum&eacute;</a></li>
+	    <li><a href="index.html#Contact">Contact</a></li>
+	</ul>
+	</nav>
+</header>
+
+<section id="boxcontent">
+	<h2 class="hidden">Home</h2>
+	<article>            	               
+        <img src="img/daanc.jpg" width="250" alt="Daan Camps" align="left"/>                
+        <h3>Summary</h3>
+        <p>I am working as a PhD researcher in the numerical analysis and applied mathematics division of the computer science department at KU Leuven. I started in September 2015 and my project is supervised by <a href="https://people.cs.kuleuven.be/~raf.vandebril/" target="_blank"><strong>Raf Vandebril</strong></a> and <a href="https://people.cs.kuleuven.be/~karl.meerbergen/" target="_blank"><strong>Karl Meerbergen</strong></a>.</p>
+        <p>&nbsp;</p>
+        <p>The focus of my research is on extended and rational Krylov methods, specifically on exploiting matrix structures to efficiently filter and restart a Krylov subspace iteration.</p>
+    	</article>
+    	<br class="clear"/>
+</section>
+
+	
+<section id="boxcontent2">
+	<h2 class="hidden">PhD</h2>	
+	<article>
+	<h3 id="PhD research">PhD</h3>
+	<p>Krylov subspace methods have been widely used throughout scientific computing for a very long time. In the past few decades, generalisations such as rational and extended Krylov methods have emerged from research. These generalisations are studied further in this PhD where the main focus is on exploiting the structure present in the recurrence matrices. This structure is used to formulate an algorithm for the implicit restart of the extended Krylov iteration (article in review). This is currently further studied to define mechanisms for the restart of the rational Krylov iteration and the intermediate conversion between standard, extended and rational Krylov subspaces, related to the work from Mach et al. (2013).</p>
+	<p>&nbsp;</p>
+        <p> The goal in the second stage of this research project is to apply this to multiple problems in scientific computing. Possible topics are in model order reduction, matrix functions and eigenvalue problems.
+        <p>&nbsp;</p>    
+	<h4>References</h4>
+	<p>A. Ruhe. Rational Krylov: A practical algorithm for large sparse nonsymmetric matrix pencils. SIAM Journal on Scientific Computing, 19:1535-1551, 1998.</p>
+        &nbsp;
+        <p>T. Mach, M. Pranic,and R, Vandebril. Computing approximate extended krylov subspaces without explicit inversion. Electronic Transactions on Numerical Analysis, 40:414-435, 2013.</p>
+	<p>&nbsp;</p>
+		
+	<h4>Conferences, workshops, and presentations</h4>
+
+	<table id="blue-table">
+	<tr>
+		<th> </th>
+		<th>Date</th>
+		<th>Occasion</th>
+		<th>Title</th>
+		<th>Links</th>
+	</tr>
+	<tr>
+		<td> <img src="img/ILAS2017.png" style="max-height:40%; max-width:40%"/> </td>
+		<td>2017-July</td>
+		<td>ILAS 2017 (Planned)</td>
+		<td> </td>
+		<td>
+		<a href="https://ilas2017.math.iastate.edu/"  target="_blank"><strong>[Website]</strong></a> 
+		</td>
+	</tr>
+	<tr>
+		<td> <img src="img/SCK.png" style="max-height:40%; max-width:40%"/> </td>
+		<td>2016-December</td>
+		<td>&emsp;SCK&#8226;CEN</td>
+		<td>Talk: Project Bateman: Status Update</td>
+		<td>
+		<a href="https://lirias.kuleuven.be/handle/123456789/559749"  target="_blank"><strong>[Lirias]</strong></a>  &nbsp;
+		<a href="https://campsd.github.io/pres/SCKCEN/ProjectBateman.pdf" target="_blank"><strong>[Presentation]</strong></a>   &nbsp;
+		<a href="https://github.com/campsd/linear-radau" target="_blank"><strong>[GitHub]</strong></a>
+		</td>
+	</tr>
+	<tr>
+		<td> <img src="img/ILAS2016.png" style="max-height:40%; max-width:40%"/> </td>
+		<td>2016-July</td>
+		<td>ILAS 2016</td>
+		<td>Talk: Towards a computational efficient, implicitly restarted rational Krylov method</td>
+		<td>
+		<a href="https://campsd.github.io/pres/ILAS2016/ILAS.html" target="_blank"><strong>[Presentation]</strong></a> &nbsp;
+		<a href="http://ilas2016.cs.kuleuven.be/abstract/?aid=364&akey=fd7a673e62a096fec62e71845638c238"  target="_blank"><strong>[Website]</strong></a>
+		</td>
+	</tr>
+	<tr>
+		<td> <img src="img/9m.png" style="max-height:40%; max-width:40%"/> </td>
+		<td>2016-June</td>
+		<td>ADS</td>
+		<td>9 Months talk</td>
+		<td>
+		<a href="https://campsd.github.io/9m/9months.html" target="_blank"><strong>[Presentation]</strong></a> 
+		</td>
+	</tr>
+	<tr>
+		<td> <img src="img/hausdorff.webp" style="max-height:40%; max-width:40%"/> </td>
+		<td>2016-April</td>
+		<td>Hausdorff school on low-rank tensors</td>
+		<td> </td>
+		<td>
+		<a href="https://www.hcm.uni-bonn.de/events/eventpages/2016/wwwhcmuni-bonndehsfasim/low-rank-tensor-techniques-2016/"  target="_blank"><strong>[Website]</strong> </a>
+		</td>
+	</tr>
+	</table>				
+
+
+	</article>
+	<br class="clear"/>
+</section>
+	
+<section id="boxcontent2">
+	<h2 class="hidden">Publications</h2>	
+	<article>
+		<h3 id="Pub">Publications</h3>
+    <h4>2016</h4>
+    <p>
+    <ul>
+        <li>D. Camps, K. Meerbergen and R. Vandebril - <span class="italic">Implicit restart of the extended Krylov method.</span>&emsp;<span class="italic">Submitted.</span>
+    </ul>
+    </p>
+		<h4>2014</h4>
+		<p>
+		<ul>
+		  <li>B. Hunyadi, D. Camps, L. Sorber, W. Van Paesschen, M. De Vos, S. Van Huffel, L. De Lathauwer - <span class="italic">Block term decomposition for modelling epileptic seizures.</span>
+		      DOI: 10.1186/1687-6180-2014-139 <a href="http://asp.eurasipjournals.springeropen.com/articles/10.1186/1687-6180-2014-139" target="_blank"><strong>[PDF]</strong></a>
+		  </li>
+		</ul>
+		</p>
+	</article>
+	<br class="clear"/>
+	</section>
+	
+	
+	<section id="boxcontent2">
+	<h2 class="hidden">TA</h2>
+	<article>	
+		<h3 id="TA">Teaching Assistant</h3>
+		<img src="img/t.jpg" width="950" alt="Teaching"/>
+		<p>&nbsp;</p>
+		<p>I'm teaching assistant (TA) for</p>
+		<p>&nbsp;</p>
+		<ul>
+		  <li><p><span class="italic">Numerieke Wiskunde  </span><a href="https://onderwijsaanbod.kuleuven.be/syllabi/n/H01D8BN.htm#activetab=doelstellingen_idm2419984"  target="_blank"> <strong>[B-KUL-H01D8B]</strong></a></p></li>
+		  <li><p><span class="italic">Numerieke Modellering en Benadering  </span><a href="https://onderwijsaanbod.kuleuven.be/syllabi/n/H01P3AN.htm#activetab=doelstellingen_idp135360"  target="_blank"><strong>[B-KUL-H01P3A]</strong></a></p></li>
+		</ul>
+		<p>&nbsp;</p>
+		<p></p>
+	</article>
+		</section>
+
+		<section id="boxcontent2">
+	<h2 class="hidden">R&eacute;sum&eacute;</h2>
+	<article>	
+		<h3 id="CV">R&eacute;sum&eacute;</h3>
+		<img src="img/lowpoly_c.jpg" alt="Resume"/>
+		<p>&nbsp;</p>
+		<h4><strong>Professional experience</strong></h4>
+		<h5>PhD researcher at NUMA/CS - KU Leuven</h5>
+		<p>2015-Current</p>
+		<p>&nbsp;</p>
+		<h5>Digital oilfield consultant at <a href="http://www.ipcos.net/" target="_blank">IPCOS</a></h5>
+		<p>2013-2015</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<h4><strong>Education</strong></h4>
+		<h5>MSc in Engineering: Mathematical Engineering, KU Leuven</h5>
+        <p><strong>Thesis:</strong> Epileptic seizure monitoring using tensor decomposition techniques </p>
+		<p>2011-2013</p>
+		<p>&nbsp;</p>
+		<h5>MSc in Astronomy, KU Leuven</h5>
+		<p><strong>Thesis:</strong>  Herschel/PACS observations of water in the carbon-rich AGB star V Hya </p>
+		<p>2009-2011</p>
+		<p>&nbsp;</p>
+		<h5>BSc in Physics, Hasselt University</h5>
+		<p>2006-2010</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+	</article>
+		</section>        	
+
+	<section id="boxcontent2">
+	<h2 class="hidden">Contact</h2>
+	<article>	
+		<h3 id="Contact">Contact</h3>
+		<!--<img src="img/contact.png" width="950" alt="Contact"/>!-->
+		<p>&nbsp;</p>
+		<h5>Email:</h5>
+		<p><span class="codedirection">eb.nevueluk.sc@spmac.naad</span></p>
+		<p>&nbsp;</p>
+		<h5>Tel:</h5>
+		<p>+32 16 37 42 76</p>
+		<p>&nbsp;</p>
+		<h5>Address:</h5>
+		<p>Departement of Computer Science</p>
+		<p>Office 02.25</p>
+		<p>KU Leuven</p>
+		<p>Celestijnenlaan 200A</p>
+		<p>3001 Heverlee - Belgium</p>
+		<p>&nbsp;</p>
+		<iframe class="actAsDiv" width="950" height="196" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=computerwetenschappen%20KU%20Leuven&amp;aq=0&amp;ie=UTF8&amp;t=m&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>
+		
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+	</article>
+		</section>
+
+	<footer>
+	<h2 class="hidden">Footer</h2>
+    <section id="copyright">
+    	<h3 class="hidden">Copyright notice</h3>
+        <div class="wrapper">
+            <div class="social">
+                <a href="https://be.linkedin.com/in/daan-camps-a9b4b150" target="_blank"><img src="img/linkedin-icon.png" alt="LinkedIn profile" width="25"/></a>
+                <a href="https://twitter.com/CampsDaan" target="_blank"><img src="img/twitter-icon.png" alt="Twitter profile" width="25"/></a>
+                <a href="https://github.com/campsd" target="_blank"><img src="img/Github-color.svg" alt="GitHub profile" width="25"/></a>
+                <a href="mailto:daancamps@gmail.com" target="_blank"><img src="img/gmail-icon.png" alt="Personal mail" width="25"/></a>
             </div>
-            <div id="mobileMenu">
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="index.html#PhD">PhD</a></li>
-                    <li><a href="index.html#Pub">Publications</a></li>
-                    <li><a href="index.html#TA">TA</a></li>
-                    <li><a href="index.html#CV">R&eacute;sum&eacute;</a></li>
-                    <li><a href="index.html#Contact">Contact</a></li>                    
-                </ul>
-            </div>
-			<h1>Daan Camps</h1>
-            <p>PhD Researcher at KU Leuven</p>
-            <p>&nbsp;</p>
-            <nav>
-            	<h2 class="hidden">Menu</h2>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="index.html#PhD">PhD</a></li>
-                    <li><a href="index.html#Pub">Publications</a></li>
-                    <li><a href="index.html#TA">TA</a></li>
-                    <li><a href="index.html#CV">R&eacute;sum&eacute;</a></li>
-                    <li><a href="index.html#Contact">Contact</a></li>
-                </ul>
-            </nav>
-        	</header>
+            &copy; Copyright 2017 by Daan Camps. All Rights Reserved.
+        </div>
+    </section>
+</footer>
 
-        	<section id="boxcontent">
-        	<h2 class="hidden">Home</h2>
-            <article>            	               
-                <img src="img/daanc.jpg" width="250" alt="Daan Camps" align="left"/>                
-                <h3>Summary</h3>
-                <p>        	
-                    I am working as a PhD researcher in the numerical analysis and applied mathematics division of the computer science department at KU Leuven. I started in September 2015 and my project is supervised by <a href="https://people.cs.kuleuven.be/~raf.vandebril/" target="_blank"><strong>Raf Vandebril</strong></a> and <a href="https://people.cs.kuleuven.be/~karl.meerbergen/" target="_blank"><strong>Karl Meerbergen</strong></a>.
-                </p>
-                <p>&nbsp;</p>
-                <p>
-                    The focus of my research is on extended and rational Krylov methods, specifically on exploiting matrix structures to efficiently filter and restart a Krylov subspace iteration.
-                </p>
-            </article>
-            <br class="clear"/>
-        	</section>
-        
-        	
-        	<section id="boxcontent2">
-        	<h2 class="hidden">PhD</h2>	
-        	<article>
-        		<h3 id="PhD research">PhD</h3>
-        		<p>Krylov subspace methods have been widely used throughout scientific computing for a very long time. In the past few decades, generalisations such as rational and extended Krylov methods
-                    have emerged from research. These generalisations are studied further in this PhD where the main focus is on exploiting the structure present in the recurrence matrices. This structure is used to formulate
-                    an algorithm for the implicit restart of the extended Krylov iteration (article in review). This is currently further studied to define mechanisms for the restart of the rational Krylov iteration and the intermediate conversion between standard, extended and rational Krylov subspaces, related to the work from Mach et al. (2013).</p>
-        		<p>&nbsp;</p>
-                <p> The goal in the second stage of this research project is to apply this to multiple problems in scientific computing. Possible topics are in model order reduction, matrix functions and eigenvalue problems.
-                <p>&nbsp;</p>    
-        		<h4>References</h4>
-        		<p>A. Ruhe. Rational Krylov: A practical algorithm for large sparse nonsymmetric matrix pencils. SIAM Journal on Scientific Computing, 19:1535-1551, 1998.</p>
-                &nbsp;
-                <p>T. Mach, M. Pranic,and R, Vandebril. Computing approximate extended krylov subspaces without explicit inversion. Electronic Transactions on Numerical Analysis, 40:414-435, 2013.</p>
-        		<p>&nbsp;</p>
-        		
-        		<h4>Conferences, workshops, and presentations</h4>
-        		<ul>
-                  <li><span class="italic"><a href="https://ilas2017.math.iastate.edu/"  target="_blank">[2017-July]</a></span> 
-        		   &emsp;&emsp;&emsp;&emsp;&thinsp;ILAS 2017 (Planned)
-        		  </li>    
-                  <li><span class="italic"><a href="https://lirias.kuleuven.be/handle/123456789/559749"  target="_blank">[2016-December]</a></span> 
-        		   &emsp;SCK&#8226;CEN  -  Talk: Project Bateman: Status Update
-			  <a href="https://campsd.github.io/pres/SCKCEN/ProjectBateman.pdf" target="_blank"><strong>[Presentation]</strong></a>
-              <a href="https://github.com/campsd/linear-radau" target="_blank"><strong>[GitHub]</strong></a>
-        		  </li>
-        		  <li><span class="italic"><a href="http://ilas2016.cs.kuleuven.be/abstract/?aid=364&akey=fd7a673e62a096fec62e71845638c238"  target="_blank">[2016-July]</a></span> 
-        		   &emsp;&emsp;&emsp;&emsp;&thinsp;ILAS 2016  -  Talk: Towards a computational efficient, implicitly restarted rational Krylov method
-			  <a href="https://campsd.github.io/pres/ILAS2016/ILAS.html" target="_blank"><strong>[Presentation]</strong></a>
-        		  </li>
-                    <li><span class="italic">[2016-June]</span> 
-        		   &emsp;&emsp;&emsp;&emsp;&thinsp;ADS - 9 Months Talk <a href="https://campsd.github.io/9m/9months.html" target="_blank"><strong>[Presentation]</strong></a>
-        		  </li>
-			  <li><span class="italic"><a href="https://www.hcm.uni-bonn.de/events/eventpages/2016/wwwhcmuni-bonndehsfasim/low-rank-tensor-techniques-2016/"  target="_blank">[2016-April]</a></span>  
-			  &emsp;&emsp;&emsp;&ensp;&thinsp;Hausdorff school on low-rank tensors
-			  </li>
-        		</ul>
-        	</article>
-        	<br class="clear"/>
-        	</section>
-        	
-        	<section id="boxcontent2">
-        	<h2 class="hidden">Publications</h2>	
-        	<article>
-			<h3 id="Pub">Publications</h3>
-            <h4>2016</h4>
-            <p>
-            <ul>
-                <li>D. Camps, K. Meerbergen and R. Vandebril - <span class="italic">Implicit restart of the extended Krylov method.</span>&emsp;<span class="italic">Submitted.</span>
-            </ul>
-            </p>
-			<h4>2014</h4>
-			<p>
-			<ul>
-			  <li>B. Hunyadi, D. Camps, L. Sorber, W. Van Paesschen, M. De Vos, S. Van Huffel, L. De Lathauwer - <span class="italic">Block term decomposition for modelling epileptic seizures.</span>
-			      DOI: 10.1186/1687-6180-2014-139 <a href="http://asp.eurasipjournals.springeropen.com/articles/10.1186/1687-6180-2014-139" target="_blank"><strong>[PDF]</strong></a>
-			  </li>
-			</ul>
-			</p>
-        	</article>
-        	<br class="clear"/>
-        	</section>
-        	
-        	
-        	<section id="boxcontent2">
-        	<h2 class="hidden">TA</h2>
-        	<article>	
-        		<h3 id="TA">Teaching Assistant</h3>
-        		<img src="img/t.jpg" width="950" alt="Teaching"/>
-        		<p>&nbsp;</p>
-        		<p>I'm teaching assistant (TA) for</p>
-        		<p>&nbsp;</p>
-        		<ul>
-			  <li><p><span class="italic">Numerieke Wiskunde  </span><a href="https://onderwijsaanbod.kuleuven.be/syllabi/n/H01D8BN.htm#activetab=doelstellingen_idm2419984"  target="_blank"> <strong>[B-KUL-H01D8B]</strong></a></p></li>
-			  <li><p><span class="italic">Numerieke Modellering en Benadering  </span><a href="https://onderwijsaanbod.kuleuven.be/syllabi/n/H01P3AN.htm#activetab=doelstellingen_idp135360"  target="_blank"><strong>[B-KUL-H01P3A]</strong></a></p></li>
-			</ul>
-        		<p>&nbsp;</p>
-        		<p></p>
-        	</article>
-			</section>
-
-			<section id="boxcontent2">
-        	<h2 class="hidden">R&eacute;sum&eacute;</h2>
-        	<article>	
-        		<h3 id="CV">R&eacute;sum&eacute;</h3>
-        		<img src="img/lowpoly_c.jpg" alt="Resume"/>
-        		<p>&nbsp;</p>
-        		<h4><strong>Professional experience</strong></h4>
-        		<h5>PhD researcher at NUMA/CS - KU Leuven</h5>
-        		<p>2015-Current</p>
-        		<p>&nbsp;</p>
-        		<h5>Digital oilfield consultant at <a href="http://www.ipcos.net/" target="_blank">IPCOS</a></h5>
-        		<p>2013-2015</p>
-        		<p>&nbsp;</p>
-        		<p>&nbsp;</p>
-        		<h4><strong>Education</strong></h4>
-        		<h5>MSc in Engineering: Mathematical Engineering, KU Leuven</h5>
-                <p><strong>Thesis:</strong> Epileptic seizure monitoring using tensor decomposition techniques </p>
-        		<p>2011-2013</p>
-        		<p>&nbsp;</p>
-        		<h5>MSc in Astronomy, KU Leuven</h5>
-        		<p><strong>Thesis:</strong>  Herschel/PACS observations of water in the carbon-rich AGB star V Hya </p>
-        		<p>2009-2011</p>
-        		<p>&nbsp;</p>
-        		<h5>BSc in Physics, Hasselt University</h5>
-        		<p>2006-2010</p>
-        		<p>&nbsp;</p>
-        		<p>&nbsp;</p>
-        	</article>
-			</section>        	
-
-        	<section id="boxcontent2">
-        	<h2 class="hidden">Contact</h2>
-        	<article>	
-        		<h3 id="Contact">Contact</h3>
-        		<!--<img src="img/contact.png" width="950" alt="Contact"/>!-->
-        		<p>&nbsp;</p>
-        		<h5>Email:</h5>
-        		<p><span class="codedirection">eb.nevueluk.sc@spmac.naad</span></p>
-        		<p>&nbsp;</p>
-        		<h5>Tel:</h5>
-        		<p>+32 16 37 42 76</p>
-        		<p>&nbsp;</p>
-        		<h5>Address:</h5>
-        		<p>Departement of Computer Science</p>
-     			<p>Office 02.25</p>
-      			<p>KU Leuven</p>
-      			<p>Celestijnenlaan 200A</p>
-     			<p>3001 Heverlee - Belgium</p>
-        		<p>&nbsp;</p>
-        		<iframe class="actAsDiv" width="950" height="196" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=computerwetenschappen%20KU%20Leuven&amp;aq=0&amp;ie=UTF8&amp;t=m&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>
-        		
-        		<p>&nbsp;</p>
-        		<p>&nbsp;</p>
-        		<p>&nbsp;</p>
-        	</article>
-			</section>
-
-        	<footer>
-        	<h2 class="hidden">Footer</h2>
-            <section id="copyright">
-            	<h3 class="hidden">Copyright notice</h3>
-                <div class="wrapper">
-                    <div class="social">
-                        <a href="https://be.linkedin.com/in/daan-camps-a9b4b150" target="_blank"><img src="img/linkedin-icon.png" alt="LinkedIn profile" width="25"/></a>
-                        <a href="https://twitter.com/CampsDaan" target="_blank"><img src="img/twitter-icon.png" alt="Twitter profile" width="25"/></a>
-                        <a href="https://github.com/campsd" target="_blank"><img src="img/Github-color.svg" alt="GitHub profile" width="25"/></a>
-                        <a href="mailto:daancamps@gmail.com" target="_blank"><img src="img/gmail-icon.png" alt="Personal mail" width="25"/></a>
-                    </div>
-                    &copy; Copyright 2017 by Daan Camps. All Rights Reserved.
-                </div>
-            </section>
-        </footer>
-
-        </body>
-	</head>	
+</body>
+</head>	
 </html>

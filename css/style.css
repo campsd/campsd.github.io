@@ -715,6 +715,38 @@ footer .wrapper .column h4
           clip: rect(1px, 1px, 1px, 1px);
 }
 
+/*TABLE*/
+#blue-table
+{
+	width:auto;
+        max-width:1100px;
+        margin:0 auto;
+        padding:70px 0 45px 0;
+	font-size: 14px;
+	text-align: left;
+	border-collapse: collapse;
+}
+
+#blue-table th
+{
+	padding: 8px;
+	font-weight: bold;
+	font-size: 15px;
+	color: #039;
+	background: #b9c9fe;
+}
+#blue-table td
+{
+	padding: 8px;
+	background: #e8edff;
+	border-top: 1px solid #fff;
+	color: #669;
+	vertical-align: middle;
+}
+#blue-table tbody tr:hover td
+{
+	background: #d0dafd;
+}
 
 /* MEDIA QUERIES FOR A RESPONSIVE LAYOUT */
 
