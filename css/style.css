@@ -815,6 +815,17 @@ footer .wrapper .column h4
 
 @media (max-width: 765px)
 {
+	#boxcontent article h3 {
+	    margin-left:20px;	
+	}
+	
+	#boxcontent article p {
+	    margin-left:20px;
+	}
+
+	#boxcontent img {
+	    display: none;
+	}
 	#boxcontent2 img {
 	    display: none;
 	}  
@@ -880,7 +891,13 @@ footer .wrapper .column h4
 }
 
 @media (max-width: 500px)
-{	
+{	#boxcontent h3 {
+	    margin-left:20px;	
+	}
+	
+	#boxcontent p {
+	    margin-left:20px;
+	}
 
 	#boxcontent img {
 	    display: none;
