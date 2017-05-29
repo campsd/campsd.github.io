@@ -943,6 +943,9 @@ footer .wrapper .column h4
 	    width: 200px
 	}
 	
+	#boxcontent2 table .hidecol {
+	    display: none;	
+	}
         header
         {
             margin-top: 80px;
