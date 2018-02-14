@@ -1,5 +1,5 @@
 <!--
-	This is the source file of Daan Camps' personal page. 
+	This is the source file of Daan Camps' personal page.
 	For any inquiries contact: daan.camps [at] cs.kuleuven.be
 !-->
 
@@ -8,7 +8,7 @@
 <head>
 <meta name="description" content="Personal webpage of Daan Camps - PhD student at the Numerical Analysis and Applied Mathematics section of the Computer Science department, KU Leuven">
 <meta name="keywords" content="Daan, Camps, PhD, Personal webpage, KU Leuven, Computer Science, Iterative Methods, Rational Krylov">
-<meta charset="UTF-8">      
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Daan Camps</title>
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
@@ -30,7 +30,7 @@
 
  <script>
 $(function() {
-  $('#slides').slidesjs({	
+  $('#slides').slidesjs({
     height: 235,
     navigation: false,
     pagination: false,
@@ -41,13 +41,13 @@ $(function() {
     },
     callback: {
         start: function(number)
-        {			
+        {
             $("#slider_content1,#slider_content2,#slider_content3").fadeOut(500);
         },
         complete: function(number)
-        {			
+        {
             $("#slider_content" + number).delay(500).fadeIn(1000);
-        }		
+        }
     },
     play: {
         active: false,
@@ -59,7 +59,7 @@ $(function() {
   });
 });
 </script>
-<!-- Google analytics !-->        
+<!-- Google analytics !-->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -76,7 +76,7 @@ $(function() {
 	<span class="menu1"></span>
 	<span class="menu2"></span>
 	<span class="menu3"></span>
-	<span class="menu4"></span>        
+	<span class="menu4"></span>
 	</div>
 
 	<div id="mobileMenu">
@@ -86,7 +86,7 @@ $(function() {
 	    <li><a href="index.html#Pub">Publications</a></li>
 	    <li><a href="index.html#TA">TA</a></li>
 	    <li><a href="index.html#CV">R&eacute;sum&eacute;</a></li>
-	    <li><a href="index.html#Contact">Contact</a></li>                    
+	    <li><a href="index.html#Contact">Contact</a></li>
 	</ul>
 	</div>
 
@@ -109,31 +109,53 @@ $(function() {
 
 <section id="boxcontent">
 	<h2 class="hidden">Home</h2>
-	<article>            	               
-        <img src="img/daanc.jpg" width="250" alt="Daan Camps" align="left"/>                
+	<article>
+        <img src="img/daanc.jpg" width="250" alt="Daan Camps" align="left"/>
         <h3>Summary</h3>
-        <p>I am working as a PhD researcher in the numerical analysis and applied mathematics division of the computer science department at KU Leuven. I started in September 2015 and my project is supervised by <a href="https://people.cs.kuleuven.be/~raf.vandebril/" target="_blank"><strong>Raf Vandebril</strong></a> and <a href="https://people.cs.kuleuven.be/~karl.meerbergen/" target="_blank"><strong>Karl Meerbergen</strong></a>.</p>
+        <p>I am working as a PhD researcher in the numerical analysis and applied
+           mathematics division of the computer science department at KU Leuven.
+           I started in September 2015 and my project is supervised by
+           <a href="https://people.cs.kuleuven.be/~raf.vandebril/" target="_blank"><strong>Raf Vandebril</strong></a>
+           and <a href="https://people.cs.kuleuven.be/~karl.meerbergen/" target="_blank"><strong>Karl Meerbergen</strong></a>.
+       </p>
         <p>&nbsp;</p>
-        <p>The focus of my research is on extended and rational Krylov methods, specifically on exploiting matrix structures to efficiently filter and restart a Krylov subspace iteration.</p>
+        <p>My research is on numerical linear algebra and I am focusing on numerical
+           methods for eigenvalue problems.
+        </p>
     	</article>
     	<br class="clear"/>
 </section>
 
-	
+
 <section id="boxcontent2">
-	<h2 class="hidden">PhD</h2>	
+	<h2 class="hidden">PhD</h2>
 	<article>
 	<h3 id="PhD research">PhD</h3>
-	<p>Krylov subspace methods have been widely used throughout scientific computing for a very long time. In the past few decades, generalisations such as rational and extended Krylov methods have emerged from research. These generalisations are studied further in this PhD where the main focus is on exploiting the structure present in the recurrence matrices. This structure is used to formulate an algorithm for the implicit restart of the extended Krylov iteration (article in review). This is currently further studied to define mechanisms for the restart of the rational Krylov iteration and the intermediate conversion between standard, extended and rational Krylov subspaces, related to the work from Mach et al. (2013).</p>
-	<p>&nbsp;</p>
-        <p> The goal in the second stage of this research project is to apply this to multiple problems in scientific computing. Possible topics are in model order reduction, matrix functions and eigenvalue problems.
-        <p>&nbsp;</p>    
-	<h4>References</h4>
-	<p>A. Ruhe. Rational Krylov: A practical algorithm for large sparse nonsymmetric matrix pencils. SIAM Journal on Scientific Computing, 19:1535-1551, 1998.</p>
-        &nbsp;
-        <p>T. Mach, M. Pranic,and R, Vandebril. Computing approximate extended Krylov subspaces without explicit inversion. Electronic Transactions on Numerical Analysis, 40:414-435, 2013.</p>
-	<p>&nbsp;</p>
-		
+	<p>Krylov subspace methods are widely used throughout scientific
+       computing. They are used for solving systems, computing eigenvalues,
+       solving matrix functions, and many other types of problems.
+       In the past few decades, generalized Krylov methods such as rational
+       or extended Krylov methods have emerged from research.
+       These generalisations are studied further in this PhD.
+       We have formulated numerical methods for filtering and restarting
+       these type of generalized Krylov methods.
+       This has resulted in a direct method of QR-type for the generalized
+       eigenvalue problem called the rational QZ method.
+    </p>
+    &nbsp;
+
+    <h4>References</h4>
+    <p>A. Ruhe. Rational Krylov:
+        A practical algorithm for large sparse nonsymmetric matrix pencils.
+        SIAM Journal on Scientific Computing, 19:1535-1551, 1998.
+    </p>
+    &nbsp;
+    <p>T. Mach, M. Pranic,and R, Vandebril.
+        Computing approximate extended Krylov subspaces without explicit inversion.
+        Electronic Transactions on Numerical Analysis, 40:414-435, 2013.
+    </p>
+	&nbsp;
+
 	<h4>Conferences, workshops, and presentations</h4>
 
 	<table id="blue-table">
@@ -144,14 +166,42 @@ $(function() {
 		<th class="hidecol">Title</th>
 		<th>Links</th>
 	</tr>
+    <tr>
+        <td></td>
+        <td>2018-July</td>
+        <td>NASCA18 (Planned)</td>
+        <td class="hidecol">A rational QZ method.</td>
+        <td>
+            <a href="http://nasca18.math.uoa.gr/" target="_blank"><strong>[Website]</strong></a>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2018-May</td>
+        <td>SIAM-ALA18 (Planned)</td>
+        <td class="hidecol">RQZ: A rational QZ algorithm for the generalized eigenvalue problem</td>
+        <td>
+            <a href="http://www.math.hkbu.edu.hk/siam-ala18/index.html" target="_blank"><strong>[Website]</strong></a>
+        </td>
+    </tr>
+	<tr>
+		<td> <img src="img/NUMASeminar.png" style="max-height:40%; max-width:40%"/> </td>
+		<td>2017-October</td>
+		<td>NUMA Internal Seminar</td>
+		<td class="hidecol">Rational matrix algorithms for the generalized eigenvalue problem — Iterative and direct methods</td>
+		<td>
+		<a href="pres/NUMASeminar/NUMA_Seminar_daanc.pdf"  target="_blank"><strong>[Presentation]</strong></a>
+		<a href="pres/NUMASeminar/abstract.html"  target="_blank"><strong>[Abstract]</strong></a>
+		</td>
+	</tr>
 	<tr>
 		<td> <img src="img/ILAS2017.png" style="max-height:40%; max-width:40%"/> </td>
 		<td>2017-July</td>
 		<td>ILAS 2017 </td>
 		<td class="hidecol">On the implicit restart of the rational Krylov method - Chasing algorithms for polynomial, extended and rational Krylov </td>
 		<td>
-		<a href="pres/ILAS2017/ILAS17_daanc.pdf"  target="_blank"><strong>[Presentation]</strong></a> 
-		<a href="https://ilas2017.math.iastate.edu/"  target="_blank"><strong>[Website]</strong></a> 
+		<a href="pres/ILAS2017/ILAS17_daanc.pdf"  target="_blank"><strong>[Presentation]</strong></a>
+		<a href="https://ilas2017.math.iastate.edu/"  target="_blank"><strong>[Website]</strong></a>
 		</td>
 	</tr>
 	<tr>
@@ -160,7 +210,7 @@ $(function() {
 		<td>1rst RENALNACA (RENcontre en Algèbre Linéaire Numérique Amiens- CAlais)</td>
 		<td class="hidecol"> </td>
 		<td>
-		<a href="http://www.lamfa.u-picardie.fr/chehab/RENALNACA_FIRST_2017.html"  target="_blank"><strong>[Website]</strong></a> 
+		<a href="http://www.lamfa.u-picardie.fr/chehab/RENALNACA_FIRST_2017.html"  target="_blank"><strong>[Website]</strong></a>
 		</td>
 	</tr>
 	<tr>
@@ -190,7 +240,7 @@ $(function() {
 		<td>ADS</td>
 		<td class="hidecol">9 Months talk</td>
 		<td>
-		<a href="https://campsd.github.io/9m/9months.html" target="_blank"><strong>[Presentation]</strong></a> 
+		<a href="https://campsd.github.io/9m/9months.html" target="_blank"><strong>[Presentation]</strong></a>
 		</td>
 	</tr>
 	<tr>
@@ -202,21 +252,39 @@ $(function() {
 		<a href="https://www.hcm.uni-bonn.de/events/eventpages/2016/wwwhcmuni-bonndehsfasim/low-rank-tensor-techniques-2016/"  target="_blank"><strong>[Website]</strong> </a>
 		</td>
 	</tr>
-	</table>				
+	</table>
 
 
 	</article>
 	<br class="clear"/>
 </section>
-	
+
 <section id="boxcontent2">
-	<h2 class="hidden">Publications</h2>	
+	<h2 class="hidden">Publications</h2>
 	<article>
 		<h3 id="Pub">Publications</h3>
+    <h4>2018</h4>
+    <ul>
+        <li>
+            D. Camps, K. Meerbergen, and R. Vandebril -
+            <span class="italic">A rational QZ method. &emsp; Submitted.</span>
+            &emsp;
+            <a href="http://numa.cs.kuleuven.be/software/rqz/" target="_blank"><strong>[PREPRINT]</strong></a>
+            <a href="https://arxiv.org/abs/1802.04094" target="_blank"><strong>[WEBPAGE]</strong></a>
+        </li>
+    </ul>
+
     <h4>2016</h4>
     <p>
     <ul>
-        <li>D. Camps, K. Meerbergen and R. Vandebril - <span class="italic">Implicit restart of the extended Krylov method.</span>&emsp;<span class="italic">Submitted.</span>
+        <li>
+            D. Camps, K. Meerbergen and R. Vandebril -
+            <span class="italic">An implicit QZ method for the application of a filter in the extended and rational Krylov method.</span>
+            &emsp;
+            <span class="italic">Submitted.</span>
+            <a href="https://lirias.kuleuven.be/handle/123456789/601747" target="_blank"><strong>[LIRIAS]</strong></a>
+
+        </li>
     </ul>
     </p>
 		<h4>2014</h4>
@@ -230,11 +298,11 @@ $(function() {
 	</article>
 	<br class="clear"/>
 	</section>
-	
-	
+
+
 	<section id="boxcontent2">
 	<h2 class="hidden">TA</h2>
-	<article>	
+	<article>
 		<h3 id="TA">Teaching Assistant</h3>
 		<img src="img/t.jpg" width="950" alt="Teaching"/>
 		<p>&nbsp;</p>
@@ -251,7 +319,7 @@ $(function() {
 
 		<section id="boxcontent2">
 	<h2 class="hidden">R&eacute;sum&eacute;</h2>
-	<article>	
+	<article>
 		<h3 id="CV">R&eacute;sum&eacute;</h3>
 		<img src="img/lowpoly_c.jpg" alt="Resume"/>
 		<p>&nbsp;</p>
@@ -277,11 +345,11 @@ $(function() {
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 	</article>
-		</section>        	
+		</section>
 
 	<section id="boxcontent2">
 	<h2 class="hidden">Contact</h2>
-	<article>	
+	<article>
 		<h3 id="Contact">Contact</h3>
 		<!--<img src="img/contact.png" width="950" alt="Contact"/>!-->
 		<p>&nbsp;</p>
@@ -299,7 +367,7 @@ $(function() {
 		<p>3001 Heverlee - Belgium</p>
 		<p>&nbsp;</p>
 		<iframe class="actAsDiv" width="950" height="196" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=computerwetenschappen%20KU%20Leuven&amp;aq=0&amp;ie=UTF8&amp;t=m&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>
-		
+
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
@@ -317,11 +385,11 @@ $(function() {
                 <a href="https://github.com/campsd" target="_blank"><img src="img/Github-color.svg" alt="GitHub profile" width="25"/></a>
                 <a href="mailto:daancamps@gmail.com" target="_blank"><img src="img/gmail-icon.png" alt="Personal mail" width="25"/></a>
             </div>
-            &copy; Copyright 2017 by Daan Camps. All Rights Reserved.
+            &copy; Copyright 2018 by Daan Camps. All Rights Reserved.
         </div>
     </section>
 </footer>
 
 </body>
-</head>	
+</head>
 </html>
