@@ -731,22 +731,28 @@ footer .wrapper .column h4
 {
 	padding: 8px;
 	font-weight: bold;
-	font-size: 15px;
-	color: #039;
-	background: #b9c9fe;
+	/*font-size: 15px;
+	color: #039;*/
+        font-family: 'Open Sans', sans-serif;
+        font-size:15px;
+	color: #F0EBD8;
+	background: #466792;
+
 }
 #blue-table td
 {
 	padding: 8px;
-	background: #e8edff;
+	background: #748CAB;
 	border-top: 1px solid #fff;
-	color: #669;
+	color: #fff;
 	vertical-align: middle;
 }
 #blue-table tbody tr:hover td
 {
-	background: #d0dafd;
+	background: #526379;
 }
+
+
 /*tmp*/
 /* MEDIA QUERIES FOR A RESPONSIVE LAYOUT */
 
