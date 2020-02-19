@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Daan Camps</title>
+    <link>https://campsd.github.io/tags/</link>
+      <atom:link href="https://campsd.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>https://campsd.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Computing</title>
+      <link>https://campsd.github.io/tags/quantum-computing/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Thesis</title>
+      <link>https://campsd.github.io/tags/phd-thesis/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/tags/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pole swapping</title>
+      <link>https://campsd.github.io/tags/pole-swapping/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/tags/pole-swapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate rational Krylov</title>
+      <link>https://campsd.github.io/tags/approximate-rational-krylov/</link>
+      <pubDate>Mon, 27 May 2019 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/tags/approximate-rational-krylov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://campsd.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

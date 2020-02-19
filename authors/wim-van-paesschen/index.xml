@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wim Van Paesschen | Daan Camps</title>
+    <link>https://campsd.github.io/authors/wim-van-paesschen/</link>
+      <atom:link href="https://campsd.github.io/authors/wim-van-paesschen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wim Van Paesschen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Mon, 08 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wim Van Paesschen</title>
+      <link>https://campsd.github.io/authors/wim-van-paesschen/</link>
+    </image>
+    
+    <item>
+      <title>Block term decomposition for modelling epileptic seizures</title>
+      <link>https://campsd.github.io/publication/btd/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/btd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

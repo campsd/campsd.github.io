@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pole swapping | Daan Camps</title>
+    <link>https://campsd.github.io/tags/pole-swapping/</link>
+      <atom:link href="https://campsd.github.io/tags/pole-swapping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pole swapping</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pole swapping</title>
+      <link>https://campsd.github.io/tags/pole-swapping/</link>
+    </image>
+    
+    <item>
+      <title>Pole swapping methods for the eigenvalue problem: Rational QR algorithms</title>
+      <link>https://campsd.github.io/publication/phd-thesis/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berkeley Lab Seminar</title>
+      <link>https://campsd.github.io/talk/berkeleyseminar/</link>
+      <pubDate>Fri, 06 Sep 2019 09:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/berkeleyseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rational QZ method</title>
+      <link>https://campsd.github.io/publication/rqz-i/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/rqz-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICIAM 2019</title>
+      <link>https://campsd.github.io/talk/iciam19/</link>
+      <pubDate>Tue, 16 Jul 2019 11:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/iciam19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETNA 25</title>
+      <link>https://campsd.github.io/talk/etna25/</link>
+      <pubDate>Mon, 27 May 2019 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/etna25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swapping 2 × 2 blocks in the Schur and generalized Schur form</title>
+      <link>https://campsd.github.io/publication/swap/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/swap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An implicit filter for rational Krylov using core transformations</title>
+      <link>https://campsd.github.io/publication/rks/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/rks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NASCA 2018</title>
+      <link>https://campsd.github.io/talk/nasca/</link>
+      <pubDate>Tue, 03 Jul 2018 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/nasca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIAM ALA 2018</title>
+      <link>https://campsd.github.io/talk/siamala18/</link>
+      <pubDate>Sun, 06 May 2018 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/siamala18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NUMA Seminar</title>
+      <link>https://campsd.github.io/talk/numaseminar/</link>
+      <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/numaseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rational QZ</title>
+      <link>https://campsd.github.io/project/rational-qz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/project/rational-qz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block term decomposition for modelling epileptic seizures</title>
+      <link>https://campsd.github.io/publication/btd/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/btd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

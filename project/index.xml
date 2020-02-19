@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Daan Camps</title>
+    <link>https://campsd.github.io/project/</link>
+      <atom:link href="https://campsd.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://campsd.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Aide QC</title>
+      <link>https://campsd.github.io/project/aide-qc/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/project/aide-qc/</guid>
+      <description>&lt;p&gt;Development of tools for quantum computing research at DOE through fundamental research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rational QZ</title>
+      <link>https://campsd.github.io/project/rational-qz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/project/rational-qz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

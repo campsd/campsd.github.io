@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicola Mastronardi | Daan Camps</title>
+    <link>https://campsd.github.io/authors/nicola-mastronardi/</link>
+      <atom:link href="https://campsd.github.io/authors/nicola-mastronardi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicola Mastronardi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nicola Mastronardi</title>
+      <link>https://campsd.github.io/authors/nicola-mastronardi/</link>
+    </image>
+    
+    <item>
+      <title>Swapping 2 × 2 blocks in the Schur and generalized Schur form</title>
+      <link>https://campsd.github.io/publication/swap/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/swap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

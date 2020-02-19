@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Daan Camps</title>
+    <link>https://campsd.github.io/talk/</link>
+      <atom:link href="https://campsd.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Fri, 06 Sep 2019 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://campsd.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Berkeley Lab Seminar</title>
+      <link>https://campsd.github.io/talk/berkeleyseminar/</link>
+      <pubDate>Fri, 06 Sep 2019 09:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/berkeleyseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICIAM 2019</title>
+      <link>https://campsd.github.io/talk/iciam19/</link>
+      <pubDate>Tue, 16 Jul 2019 11:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/iciam19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETNA 25</title>
+      <link>https://campsd.github.io/talk/etna25/</link>
+      <pubDate>Mon, 27 May 2019 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/etna25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NASCA 2018</title>
+      <link>https://campsd.github.io/talk/nasca/</link>
+      <pubDate>Tue, 03 Jul 2018 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/nasca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIAM ALA 2018</title>
+      <link>https://campsd.github.io/talk/siamala18/</link>
+      <pubDate>Sun, 06 May 2018 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/siamala18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NUMA Seminar</title>
+      <link>https://campsd.github.io/talk/numaseminar/</link>
+      <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/numaseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ILAS 2017</title>
+      <link>https://campsd.github.io/talk/ilas17/</link>
+      <pubDate>Thu, 27 Jul 2017 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/ilas17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ILAS 2016</title>
+      <link>https://campsd.github.io/talk/ilas16/</link>
+      <pubDate>Tue, 12 Jul 2016 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/ilas16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

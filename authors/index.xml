@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Daan Camps</title>
+    <link>https://campsd.github.io/authors/</link>
+      <atom:link href="https://campsd.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://campsd.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://campsd.github.io/authors/admin/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Postdoctoral researcher working in the Scalable Solvers Group at Lawrence Berkeley National Laboratory on matrix and tensor decomposition techniques for quantum computing.&lt;/p&gt;
+&lt;p&gt;I obtained my PhD in Computer Science from KU Leuven where I worked on &lt;em&gt;pole swapping&lt;/em&gt; methods for eigenvalue problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Karl Meerbergen</title>
+      <link>https://campsd.github.io/authors/karl-meerbergen/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/karl-meerbergen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raf Vandebril</title>
+      <link>https://campsd.github.io/authors/raf-vandebril/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/raf-vandebril/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicola Mastronardi</title>
+      <link>https://campsd.github.io/authors/nicola-mastronardi/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/nicola-mastronardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Van Dooren</title>
+      <link>https://campsd.github.io/authors/paul-van-dooren/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/paul-van-dooren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Borbala Hunyadi</title>
+      <link>https://campsd.github.io/authors/borbala-hunyadi/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/borbala-hunyadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurent Sorber</title>
+      <link>https://campsd.github.io/authors/laurent-sorber/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/laurent-sorber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lieven De Lathauwer</title>
+      <link>https://campsd.github.io/authors/lieven-de-lathauwer/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/lieven-de-lathauwer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maarten De Vos</title>
+      <link>https://campsd.github.io/authors/maarten-de-vos/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/maarten-de-vos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabine Van Huffel</title>
+      <link>https://campsd.github.io/authors/sabine-van-huffel/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/sabine-van-huffel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wim Van Paesschen</title>
+      <link>https://campsd.github.io/authors/wim-van-paesschen/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/wim-van-paesschen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
