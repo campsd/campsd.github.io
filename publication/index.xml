@@ -5,12 +5,20 @@
     <link>https://campsd.github.io/publication/</link>
       <atom:link href="https://campsd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://campsd.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Chemistry on quantum computers with virtual quantum subspace expansion</title>
+      <link>https://campsd.github.io/publication/vqse/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/vqse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pole swapping methods for the eigenvalue problem: Rational QR algorithms</title>
