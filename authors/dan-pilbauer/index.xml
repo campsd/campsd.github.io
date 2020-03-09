@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Pilbauer | Daan Camps</title>
+    <link>https://campsd.github.io/authors/dan-pilbauer/</link>
+      <atom:link href="https://campsd.github.io/authors/dan-pilbauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Pilbauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dan Pilbauer</title>
+      <link>https://campsd.github.io/authors/dan-pilbauer/</link>
+    </image>
+    
+    <item>
+      <title>Introductie tot de wheel theory</title>
+      <link>https://campsd.github.io/publication/wheels/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/wheels/</guid>
+      <description>&lt;p&gt;This article was published in the &lt;em&gt;Geniaal&lt;/em&gt; magazine of the faculty of engineering science at KU Leuven.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

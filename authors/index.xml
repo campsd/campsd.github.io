@@ -5,7 +5,7 @@
     <link>https://campsd.github.io/authors/</link>
       <atom:link href="https://campsd.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://campsd.github.io/authors/admin/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a Postdoctoral researcher working in the Scalable Solvers Group at Lawrence Berkeley National Laboratory on matrix and tensor decomposition techniques for quantum computing.&lt;/p&gt;
 &lt;p&gt;I obtained my PhD in Computer Science from KU Leuven where I worked on &lt;em&gt;pole swapping&lt;/em&gt; methods for eigenvalue problems.&lt;/p&gt;
@@ -23,18 +23,26 @@
     </item>
     
     <item>
-      <title>Miroslav Urbanek</title>
-      <link>https://campsd.github.io/authors/miroslav-urbanek/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/authors/miroslav-urbanek/</guid>
+      <title>Chao Yang</title>
+      <link>https://campsd.github.io/authors/chao-yang/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/chao-yang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roel Van Beeumen</title>
       <link>https://campsd.github.io/authors/roel-van-beeumen/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/authors/roel-van-beeumen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miroslav Urbanek</title>
+      <link>https://campsd.github.io/authors/miroslav-urbanek/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/miroslav-urbanek/</guid>
       <description></description>
     </item>
     
@@ -63,6 +71,22 @@
     </item>
     
     <item>
+      <title>David Watkins</title>
+      <link>https://campsd.github.io/authors/david-watkins/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/david-watkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Mach</title>
+      <link>https://campsd.github.io/authors/thomas-mach/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/thomas-mach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nicola Mastronardi</title>
       <link>https://campsd.github.io/authors/nicola-mastronardi/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
@@ -75,6 +99,30 @@
       <link>https://campsd.github.io/authors/paul-van-dooren/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/authors/paul-van-dooren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Pilbauer</title>
+      <link>https://campsd.github.io/authors/dan-pilbauer/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/dan-pilbauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcus Webb</title>
+      <link>https://campsd.github.io/authors/marcus-webb/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/marcus-webb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pieterjan Robbe</title>
+      <link>https://campsd.github.io/authors/pieterjan-robbe/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/pieterjan-robbe/</guid>
       <description></description>
     </item>
     

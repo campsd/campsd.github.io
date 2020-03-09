@@ -5,12 +5,20 @@
     <link>https://campsd.github.io/publication/</link>
       <atom:link href="https://campsd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://campsd.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Quantum Fourier Transform Revisited</title>
+      <link>https://campsd.github.io/publication/qft/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qft/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chemistry on quantum computers with virtual quantum subspace expansion</title>
@@ -37,6 +45,14 @@
     </item>
     
     <item>
+      <title>On pole-swapping algorithms for the eigenvalue problem</title>
+      <link>https://campsd.github.io/publication/ps/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Swapping 2 × 2 blocks in the Schur and generalized Schur form</title>
       <link>https://campsd.github.io/publication/swap/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
@@ -50,6 +66,15 @@
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/rks/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Introductie tot de wheel theory</title>
+      <link>https://campsd.github.io/publication/wheels/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/wheels/</guid>
+      <description>&lt;p&gt;This article was published in the &lt;em&gt;Geniaal&lt;/em&gt; magazine of the faculty of engineering science at KU Leuven.&lt;/p&gt;
+</description>
     </item>
     
     <item>

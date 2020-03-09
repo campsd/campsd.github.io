@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Mach | Daan Camps</title>
+    <link>https://campsd.github.io/authors/thomas-mach/</link>
+      <atom:link href="https://campsd.github.io/authors/thomas-mach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Mach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Thomas Mach</title>
+      <link>https://campsd.github.io/authors/thomas-mach/</link>
+    </image>
+    
+    <item>
+      <title>On pole-swapping algorithms for the eigenvalue problem</title>
+      <link>https://campsd.github.io/publication/ps/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/ps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

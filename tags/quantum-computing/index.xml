@@ -5,12 +5,20 @@
     <link>https://campsd.github.io/tags/quantum-computing/</link>
       <atom:link href="https://campsd.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Quantum Computing</title>
       <link>https://campsd.github.io/tags/quantum-computing/</link>
     </image>
+    
+    <item>
+      <title>Quantum Fourier Transform Revisited</title>
+      <link>https://campsd.github.io/publication/qft/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qft/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chemistry on quantum computers with virtual quantum subspace expansion</title>
