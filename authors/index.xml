@@ -5,7 +5,7 @@
     <link>https://campsd.github.io/authors/</link>
       <atom:link href="https://campsd.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,11 +15,35 @@
     <item>
       <title></title>
       <link>https://campsd.github.io/authors/admin/</link>
-      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a Postdoctoral researcher working in the Scalable Solvers Group at Lawrence Berkeley National Laboratory on matrix and tensor decomposition techniques for quantum computing.&lt;/p&gt;
 &lt;p&gt;I obtained my PhD in Computer Science from KU Leuven where I worked on &lt;em&gt;pole swapping&lt;/em&gt; methods for eigenvalue problems.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Karl Meerbergen</title>
+      <link>https://campsd.github.io/authors/karl-meerbergen/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/karl-meerbergen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raf Vandebril</title>
+      <link>https://campsd.github.io/authors/raf-vandebril/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/raf-vandebril/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thijs Steel</title>
+      <link>https://campsd.github.io/authors/thijs-steel/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/authors/thijs-steel/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -51,22 +75,6 @@
       <link>https://campsd.github.io/authors/wibe-a.-de-jong/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/authors/wibe-a.-de-jong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Karl Meerbergen</title>
-      <link>https://campsd.github.io/authors/karl-meerbergen/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/authors/karl-meerbergen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raf Vandebril</title>
-      <link>https://campsd.github.io/authors/raf-vandebril/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/authors/raf-vandebril/</guid>
       <description></description>
     </item>
     

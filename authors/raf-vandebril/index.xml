@@ -5,12 +5,20 @@
     <link>https://campsd.github.io/authors/raf-vandebril/</link>
       <atom:link href="https://campsd.github.io/authors/raf-vandebril/index.xml" rel="self" type="application/rss+xml" />
     <description>Raf Vandebril</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Raf Vandebril</title>
       <link>https://campsd.github.io/authors/raf-vandebril/</link>
     </image>
+    
+    <item>
+      <title>A multishift, multipole rational QZ method with aggressive early deflation</title>
+      <link>https://campsd.github.io/publication/rqz-ii/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/rqz-ii/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A rational QZ method</title>

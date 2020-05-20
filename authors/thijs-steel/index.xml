@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thijs Steel | Daan Camps</title>
+    <link>https://campsd.github.io/authors/thijs-steel/</link>
+      <atom:link href="https://campsd.github.io/authors/thijs-steel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thijs Steel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Thijs Steel</title>
+      <link>https://campsd.github.io/authors/thijs-steel/</link>
+    </image>
+    
+    <item>
+      <title>A multishift, multipole rational QZ method with aggressive early deflation</title>
+      <link>https://campsd.github.io/publication/rqz-ii/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/rqz-ii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
