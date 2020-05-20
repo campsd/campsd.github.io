@@ -7,42 +7,10 @@
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://campsd.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Pole swapping</title>
-      <link>https://campsd.github.io/tags/pole-swapping/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/tags/pole-swapping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantum Computing</title>
-      <link>https://campsd.github.io/tags/quantum-computing/</link>
-      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/tags/quantum-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PhD Thesis</title>
-      <link>https://campsd.github.io/tags/phd-thesis/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/tags/phd-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate rational Krylov</title>
-      <link>https://campsd.github.io/tags/approximate-rational-krylov/</link>
-      <pubDate>Mon, 27 May 2019 12:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/tags/approximate-rational-krylov/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
