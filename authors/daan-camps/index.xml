@@ -5,7 +5,7 @@
     <link>https://campsd.github.io/authors/daan-camps/</link>
       <atom:link href="https://campsd.github.io/authors/daan-camps/index.xml" rel="self" type="application/rss+xml" />
     <description>Daan Camps</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/authors/daan-camps/avatar_hudced8bcfe22292ced2a3e4887c9f0f23_27852_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Daan Camps</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>On pole-swapping algorithms for the eigenvalue problem</title>
+      <link>https://campsd.github.io/publication/ps/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Fourier Transform Revisited</title>
+      <link>https://campsd.github.io/publication/qft/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chemistry on quantum computers with virtual quantum subspace expansion</title>
       <link>https://campsd.github.io/publication/vqse/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/vqse/</guid>
       <description></description>
     </item>
@@ -33,14 +49,6 @@
       <link>https://campsd.github.io/publication/rqz-ii/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/rqz-ii/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantum Fourier Transform Revisited</title>
-      <link>https://campsd.github.io/publication/qft/</link>
-      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/qft/</guid>
       <description></description>
     </item>
     
@@ -73,14 +81,6 @@
       <link>https://campsd.github.io/talk/iciam19/</link>
       <pubDate>Tue, 16 Jul 2019 11:30:00 +0000</pubDate>
       <guid>https://campsd.github.io/talk/iciam19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On pole-swapping algorithms for the eigenvalue problem</title>
-      <link>https://campsd.github.io/publication/ps/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/ps/</guid>
       <description></description>
     </item>
     
