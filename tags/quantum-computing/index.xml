@@ -5,12 +5,60 @@
     <link>https://campsd.github.io/tags/quantum-computing/</link>
       <atom:link href="https://campsd.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daan Camps</copyright><lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daan Camps</copyright><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_2.png</url>
+      <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Quantum Computing</title>
       <link>https://campsd.github.io/tags/quantum-computing/</link>
     </image>
+    
+    <item>
+      <title>An Algebraic Quantum Circuit Compression Algorithm for Hamiltonian Simulation</title>
+      <link>https://campsd.github.io/publication/f3c-numerics/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/f3c-numerics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algebraic Quantum Circuit Compression Algorithm for Hamiltonian Simulation</title>
+      <link>https://campsd.github.io/publication/f3c-physics/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/f3c-physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F3C</title>
+      <link>https://campsd.github.io/software/f3c/</link>
+      <pubDate>Wed, 04 Aug 2021 09:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/software/f3c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F3C&#43;&#43;</title>
+      <link>https://campsd.github.io/software/f3cpp/</link>
+      <pubDate>Wed, 04 Aug 2021 09:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/software/f3cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCLAB</title>
+      <link>https://campsd.github.io/software/qclab/</link>
+      <pubDate>Wed, 04 Aug 2021 09:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/software/qclab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCLAB&#43;&#43;</title>
+      <link>https://campsd.github.io/software/qclabpp/</link>
+      <pubDate>Wed, 04 Aug 2021 09:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/software/qclabpp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximate Quantum Circuit Synthesis using Block-Encodings</title>
