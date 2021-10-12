@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="An introduction to the quantum Fourier transform from a matrix analysis perspective that provides an alternative derivation of the algorithm.">
+  <meta name="description" content="We introduce a uniform framework for quantum pixel representations that encompasses many of the popular image representations proposed in the literature. We propose a novel circuit implementation with an efficient compression algorithm.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://campsd.github.io/publication/qft/">
+  <link rel="alternate" hreflang="en-us" href="https://campsd.github.io/publication/qpixl/">
 
   
 
@@ -258,7 +258,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://campsd.github.io/publication/qft/">
+  <link rel="canonical" href="https://campsd.github.io/publication/qpixl/">
 
   
   
@@ -273,15 +273,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Daan Camps">
-  <meta property="og:url" content="https://campsd.github.io/publication/qft/">
-  <meta property="og:title" content="Quantum Fourier Transform Revisited | Daan Camps">
-  <meta property="og:description" content="An introduction to the quantum Fourier transform from a matrix analysis perspective that provides an alternative derivation of the algorithm."><meta property="og:image" content="https://campsd.github.io/publication/qft/featured.png">
-  <meta property="twitter:image" content="https://campsd.github.io/publication/qft/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://campsd.github.io/publication/qpixl/">
+  <meta property="og:title" content="Quantum pixel representations and compression for N-dimensional images | Daan Camps">
+  <meta property="og:description" content="We introduce a uniform framework for quantum pixel representations that encompasses many of the popular image representations proposed in the literature. We propose a novel circuit implementation with an efficient compression algorithm."><meta property="og:image" content="https://campsd.github.io/publication/qpixl/featured.png">
+  <meta property="twitter:image" content="https://campsd.github.io/publication/qpixl/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-09-15T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-10-11T00:00:00&#43;00:00">
   
 
   
@@ -303,20 +303,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://campsd.github.io/publication/qft/"
+    "@id": "https://campsd.github.io/publication/qpixl/"
   },
-  "headline": "Quantum Fourier Transform Revisited",
+  "headline": "Quantum pixel representations and compression for N-dimensional images",
   
   "image": [
-    "https://campsd.github.io/publication/qft/featured.png"
+    "https://campsd.github.io/publication/qpixl/featured.png"
   ],
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2020-09-15T00:00:00Z",
+  "dateModified": "2021-10-11T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Daan Camps"
+    "name": "Mercy Amankwah"
   },
   
   "publisher": {
@@ -327,7 +327,7 @@
       "url": "https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "An introduction to the quantum Fourier transform from a matrix analysis perspective that provides an alternative derivation of the algorithm."
+  "description": "We introduce a uniform framework for quantum pixel representations that encompasses many of the popular image representations proposed in the literature. We propose a novel circuit implementation with an efficient compression algorithm."
 }
 </script>
 
@@ -345,7 +345,7 @@
 
 
 
-  <title>Quantum Fourier Transform Revisited | Daan Camps</title>
+  <title>Quantum pixel representations and compression for N-dimensional images | Daan Camps</title>
 
 </head>
 
@@ -628,7 +628,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Quantum Fourier Transform Revisited</h1>
+  <h1>Quantum pixel representations and compression for N-dimensional images</h1>
 
   
 
@@ -645,7 +645,7 @@
     
 
   
-  <span><a href="/authors/daan-camps/">Daan Camps</a></span>, <span><a href="/authors/roel-vanbeeumen/">Roel Van Beeumen</a></span>, <span>Chao Yang</span>
+  <span>Mercy Amankwah</span>, <span><a href="/authors/daan-camps/">Daan Camps</a></span>, <span>E. Wes Bethel</span>, <span><a href="/authors/roel-vanbeeumen/">Roel Van Beeumen</a></span>, <span>Talita Perciano</span>
   </div>
   
   
@@ -656,7 +656,7 @@
     
       
     
-    September 2020
+    October 2021
   </span>
   
 
@@ -685,8 +685,6 @@
 
 
 
-  
-
 
 
 <div class="btn-links mb-3">
@@ -706,45 +704,44 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2003.03011.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2110.04405.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/qft/cite.bib">
-  Cite
-</button>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1002/nla.2331" target="_blank" rel="noopener">
-  DOI
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/QuantumComputingLab" target="_blank" rel="noopener">
+  Code
 </a>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 175px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 281px;">
   <div style="position: relative">
-    <img src="/publication/qft/featured_huc6201833ddbfa5acf5f95ff0443e5687_54203_720x0_resize_lanczos_3.png" alt="" class="featured-image">
-    <span class="article-header-caption">Quantum circuit</span>
+    <img src="/publication/qpixl/featured_hu9600b81185f38b4eef747550a42e909c_351398_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <span class="article-header-caption">Compressed quantum image representation of scientific data</span>
   </div>
 </div>
 
@@ -754,7 +751,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The fast Fourier transform (FFT) is one of the most successful numerical algorithms of the 20th century and has found numerous applications in many branches of computational science and engineering. The FFT algorithm can be derived from a particular matrix decomposition of the discrete Fourier transform (DFT) matrix. In this paper, we show that the quantum Fourier transform (QFT) can be derived by further decomposing the diagonal factors of the FFT matrix decomposition into products of matrices with Kronecker product structure. We analyze the implication of this Kronecker product structure on the discrete Fourier transform of rank-1 tensors on a classical computer. We also explain why such a structure can take advantage of an important quantum computer feature that enables the QFT algorithm to attain an exponential speedup on a quantum computer over the FFT algorithm on a classical computer. Further, the connection between the matrix decomposition of the DFT matrix and a quantum circuit is made. We also discuss a natural extension of a radix-2 QFT decomposition to a radix-d QFT decomposition. No prior knowledge of quantum computing is required to understand what is presented in this paper. Yet, we believe this paper may help readers to gain some rudimentary understanding of the nature of quantum computing from a matrix computation point of view.</p>
+    <p class="pub-abstract">We introduce a novel and uniform framework for quantum pixel representations that overarches many of the most popular representations proposed in the recent literature, such as (I)FRQI, (I)NEQR, MCRQI, and (I)NCQI. The proposed QPIXL framework results in more efficient circuit implementations and significantly reduces the gate complexity for all considered quantum pixel representations. Our method only requires a linear number of gates in terms of the number of pixels and does not use ancilla qubits. Furthermore, the circuits only consist of Ry gates and CNOT gates making them practical in the NISQ era. Additionally, we propose a circuit and image compression algorithm that is shown to be highly effective, being able to reduce the necessary gates to prepare an FRQI state for example scientific images by up to 90% without sacrificing image quality. Our algorithms are made publicly available as part of QPIXL++, a Quantum Image Pixel Library.</p>
     
 
     
@@ -766,8 +763,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#3">
+              Preprint
             </a>
             
           </div>
@@ -778,18 +775,6 @@
     <div class="d-md-none space-below"></div>
     
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Numerical Linear Algebra with Applications</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
@@ -821,7 +806,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://campsd.github.io/publication/qft/&amp;text=Quantum%20Fourier%20Transform%20Revisited" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://campsd.github.io/publication/qpixl/&amp;text=Quantum%20pixel%20representations%20and%20compression%20for%20N-dimensional%20images" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -834,7 +819,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Quantum%20Fourier%20Transform%20Revisited&amp;body=https://campsd.github.io/publication/qft/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Quantum%20pixel%20representations%20and%20compression%20for%20N-dimensional%20images&amp;body=https://campsd.github.io/publication/qpixl/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -847,7 +832,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://campsd.github.io/publication/qft/&amp;title=Quantum%20Fourier%20Transform%20Revisited" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://campsd.github.io/publication/qpixl/&amp;title=Quantum%20pixel%20representations%20and%20compression%20for%20N-dimensional%20images" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -864,6 +849,17 @@
 
 
 
+
+
+  
+    
+    
+
+
+
+
+
+  
 
 
   
@@ -1004,6 +1000,17 @@
 
 
   
+
+
+  
+    
+    
+
+
+
+
+
+  
     
     
     
@@ -1070,15 +1077,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/aqcs-be/">Approximate Quantum Circuit Synthesis using Block-Encodings</a></li>
-      
-      <li><a href="/publication/vqse/">Chemistry on quantum computers with virtual quantum subspace expansion</a></li>
-      
       <li><a href="/publication/f3c-physics/">Algebraic Compression of Quantum Circuits for Hamiltonian Evolution</a></li>
       
       <li><a href="/publication/f3c-numerics/">An Algebraic Quantum Circuit Compression Algorithm for Hamiltonian Simulation</a></li>
       
-      <li><a href="/publication/qpixl/">Quantum pixel representations and compression for N-dimensional images</a></li>
+      <li><a href="/publication/aqcs-be/">Approximate Quantum Circuit Synthesis using Block-Encodings</a></li>
+      
+      <li><a href="/publication/vqse/">Chemistry on quantum computers with virtual quantum subspace expansion</a></li>
+      
+      <li><a href="/publication/qft/">Quantum Fourier Transform Revisited</a></li>
       
     </ul>
   </div>

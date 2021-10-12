@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Wes Bethel | Daan Camps</title>
+    <link>https://campsd.github.io/authors/e.-wes-bethel/</link>
+      <atom:link href="https://campsd.github.io/authors/e.-wes-bethel/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Wes Bethel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daan Camps</copyright><lastBuildDate>Mon, 11 Oct 2021 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
+      <title>E. Wes Bethel</title>
+      <link>https://campsd.github.io/authors/e.-wes-bethel/</link>
+    </image>
+    
+    <item>
+      <title>QPIXL&#43;&#43;</title>
+      <link>https://campsd.github.io/software/qpixlpp/</link>
+      <pubDate>Mon, 11 Oct 2021 09:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/software/qpixlpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum pixel representations and compression for N-dimensional images</title>
+      <link>https://campsd.github.io/publication/qpixl/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qpixl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
