@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chao Yang | Daan Camps</title>
-    <link>https://campsd.github.io/authors/chao-yang/</link>
-      <atom:link href="https://campsd.github.io/authors/chao-yang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chao Yang</description>
+    <title>Lin Lin | Daan Camps</title>
+    <link>https://campsd.github.io/authors/lin-lin/</link>
+      <atom:link href="https://campsd.github.io/authors/lin-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lin Lin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Sat, 19 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
-      <title>Chao Yang</title>
-      <link>https://campsd.github.io/authors/chao-yang/</link>
+      <title>Lin Lin</title>
+      <link>https://campsd.github.io/authors/lin-lin/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://campsd.github.io/publication/explicit-be/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/explicit-be/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantum Fourier Transform Revisited</title>
-      <link>https://campsd.github.io/publication/qft/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/qft/</guid>
       <description></description>
     </item>
     

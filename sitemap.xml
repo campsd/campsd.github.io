@@ -2,14 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://campsd.github.io/publication_types/3/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://campsd.github.io/authors/</loc>
-    <lastmod>2022-02-09T09:30:00+00:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/</loc>
-    <lastmod>2022-02-09T09:30:00+00:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/daan-camps/</loc>
-    <lastmod>2022-02-09T09:30:00+00:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/fable/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication_types/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/quantum-computing/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/roel-vanbeeumen/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/chao-yang/</loc>
+    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/explicit-be/</loc>
+    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/lin-lin/</loc>
+    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication_types/2/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/alexander-f.-kemper/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/f3c-physics/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/efekan-kokcu/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/j.-k.-freericks/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/lindsay-bassman/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/wibe-a.-de-jong/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/software/funfact/</loc>
     <lastmod>2022-02-09T09:30:00+00:00</lastmod>
@@ -18,9 +69,6 @@
     <lastmod>2022-02-09T09:30:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/software/</loc>
-    <lastmod>2022-02-09T09:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/tags/</loc>
     <lastmod>2022-02-09T09:30:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/tags/tensor-decomposition/</loc>
@@ -38,46 +86,13 @@
     <loc>https://campsd.github.io/software/qpixlpp/</loc>
     <lastmod>2021-10-11T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/tags/quantum-computing/</loc>
-    <lastmod>2021-10-11T09:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/roel-vanbeeumen/</loc>
-    <lastmod>2021-10-11T09:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/authors/talita-perciano/</loc>
     <lastmod>2021-10-11T09:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/3/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/qpixl/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/alexander-f.-kemper/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/f3c-physics/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/publication/f3c-numerics/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/efekan-kokcu/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/j.-k.-freericks/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/lindsay-bassman/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/wibe-a.-de-jong/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/software/f3c/</loc>
@@ -91,9 +106,6 @@
   </url><url>
     <loc>https://campsd.github.io/software/qclabpp/</loc>
     <lastmod>2021-08-04T09:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/2/</loc>
-    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/rqz-ii/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
@@ -121,9 +133,6 @@
   </url><url>
     <loc>https://campsd.github.io/authors/thomas-mach/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/chao-yang/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/qft/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
