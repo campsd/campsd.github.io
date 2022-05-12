@@ -5,12 +5,28 @@
     <link>https://campsd.github.io/tags/quantum-computing/</link>
       <atom:link href="https://campsd.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Quantum Computing</title>
       <link>https://campsd.github.io/tags/quantum-computing/</link>
     </image>
+    
+    <item>
+      <title>XXI Householder Symposium on Numerical Linear Algebra</title>
+      <link>https://campsd.github.io/talk/hh_22/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/hh_22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum pixel representations and compression for N-dimensional images</title>
+      <link>https://campsd.github.io/publication/qpixl/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qpixl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
@@ -41,14 +57,6 @@
       <link>https://campsd.github.io/software/qpixlpp/</link>
       <pubDate>Mon, 11 Oct 2021 09:30:00 +0000</pubDate>
       <guid>https://campsd.github.io/software/qpixlpp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantum pixel representations and compression for N-dimensional images</title>
-      <link>https://campsd.github.io/publication/qpixl/</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/qpixl/</guid>
       <description></description>
     </item>
     
@@ -89,6 +97,14 @@
       <link>https://campsd.github.io/software/qclabpp/</link>
       <pubDate>Wed, 04 Aug 2021 09:30:00 +0000</pubDate>
       <guid>https://campsd.github.io/software/qclabpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Sciences Area 2nd Annual Postdoc Symposium</title>
+      <link>https://campsd.github.io/talk/cs_ps_21/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/cs_ps_21/</guid>
       <description></description>
     </item>
     

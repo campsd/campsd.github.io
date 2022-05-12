@@ -5,7 +5,7 @@
     <link>https://campsd.github.io/authors/mercy-amankwah/</link>
       <atom:link href="https://campsd.github.io/authors/mercy-amankwah/index.xml" rel="self" type="application/rss+xml" />
     <description>Mercy Amankwah</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Mon, 11 Oct 2021 09:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Mercy Amankwah</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>QPIXL&#43;&#43;</title>
-      <link>https://campsd.github.io/software/qpixlpp/</link>
-      <pubDate>Mon, 11 Oct 2021 09:30:00 +0000</pubDate>
-      <guid>https://campsd.github.io/software/qpixlpp/</guid>
+      <title>Quantum pixel representations and compression for N-dimensional images</title>
+      <link>https://campsd.github.io/publication/qpixl/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qpixl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quantum pixel representations and compression for N-dimensional images</title>
-      <link>https://campsd.github.io/publication/qpixl/</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/qpixl/</guid>
+      <title>QPIXL&#43;&#43;</title>
+      <link>https://campsd.github.io/software/qpixlpp/</link>
+      <pubDate>Mon, 11 Oct 2021 09:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/software/qpixlpp/</guid>
       <description></description>
     </item>
     

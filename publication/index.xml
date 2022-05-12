@@ -5,12 +5,20 @@
     <link>https://campsd.github.io/publication/</link>
       <atom:link href="https://campsd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://campsd.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Quantum pixel representations and compression for N-dimensional images</title>
+      <link>https://campsd.github.io/publication/qpixl/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qpixl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
@@ -33,14 +41,6 @@
       <link>https://campsd.github.io/publication/f3c-physics/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/f3c-physics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantum pixel representations and compression for N-dimensional images</title>
-      <link>https://campsd.github.io/publication/qpixl/</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/qpixl/</guid>
       <description></description>
     </item>
     
