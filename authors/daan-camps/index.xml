@@ -5,12 +5,36 @@
     <link>https://campsd.github.io/authors/daan-camps/</link>
       <atom:link href="https://campsd.github.io/authors/daan-camps/index.xml" rel="self" type="application/rss+xml" />
     <description>Daan Camps</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Daan Camps</title>
       <link>https://campsd.github.io/authors/daan-camps/</link>
     </image>
+    
+    <item>
+      <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
+      <link>https://campsd.github.io/publication/fable/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/fable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IEEE Quantum Week 2022</title>
+      <link>https://campsd.github.io/talk/ieee_qce22/</link>
+      <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/ieee_qce22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Finite Temperature Properties of Materials with Quantum Computers</title>
+      <link>https://campsd.github.io/publication/tpq/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/tpq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>XXI Householder Symposium on Numerical Linear Algebra</title>
@@ -25,14 +49,6 @@
       <link>https://campsd.github.io/publication/qpixl/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/qpixl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
-      <link>https://campsd.github.io/publication/fable/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/fable/</guid>
       <description></description>
     </item>
     

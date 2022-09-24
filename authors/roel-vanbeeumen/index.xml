@@ -5,7 +5,7 @@
     <link>https://campsd.github.io/authors/roel-vanbeeumen/</link>
       <atom:link href="https://campsd.github.io/authors/roel-vanbeeumen/index.xml" rel="self" type="application/rss+xml" />
     <description>Roel Van Beeumen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Roel Van Beeumen</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Quantum pixel representations and compression for N-dimensional images</title>
-      <link>https://campsd.github.io/publication/qpixl/</link>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/qpixl/</guid>
+      <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
+      <link>https://campsd.github.io/publication/fable/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/fable/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
-      <link>https://campsd.github.io/publication/fable/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/fable/</guid>
+      <title>Quantum pixel representations and compression for N-dimensional images</title>
+      <link>https://campsd.github.io/publication/qpixl/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qpixl/</guid>
       <description></description>
     </item>
     
