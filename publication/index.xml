@@ -5,7 +5,7 @@
     <link>https://campsd.github.io/publication/</link>
       <atom:link href="https://campsd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daan Camps</copyright><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Daan Camps</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
-      <link>https://campsd.github.io/publication/fable/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/fable/</guid>
+      <title>Exploring Finite Temperature Properties of Materials with Quantum Computers</title>
+      <link>https://campsd.github.io/publication/tpq/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/tpq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploring Finite Temperature Properties of Materials with Quantum Computers</title>
-      <link>https://campsd.github.io/publication/tpq/</link>
-      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/tpq/</guid>
+      <title>Quantum-parallel vectorized data encodings and computations on trapped-ions and transmons QPUs</title>
+      <link>https://campsd.github.io/publication/qcrank/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qcrank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating dirty bosons on a quantum computer</title>
+      <link>https://campsd.github.io/publication/dirty-bosons/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/dirty-bosons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
+      <link>https://campsd.github.io/publication/fable/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/fable/</guid>
       <description></description>
     </item>
     
