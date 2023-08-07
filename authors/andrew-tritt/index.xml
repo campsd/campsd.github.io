@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Daan Camps</title>
-    <link>https://campsd.github.io/publication_types/1/</link>
-      <atom:link href="https://campsd.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Andrew Tritt | Daan Camps</title>
+    <link>https://campsd.github.io/authors/andrew-tritt/</link>
+      <atom:link href="https://campsd.github.io/authors/andrew-tritt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Tritt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Daan Camps</copyright><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
-      <title>1</title>
-      <link>https://campsd.github.io/publication_types/1/</link>
+      <title>Andrew Tritt</title>
+      <link>https://campsd.github.io/authors/andrew-tritt/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://campsd.github.io/publication/qcam/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/qcam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
-      <link>https://campsd.github.io/publication/fable/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/fable/</guid>
       <description></description>
     </item>
     
