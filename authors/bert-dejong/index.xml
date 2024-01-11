@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wibe A. de Jong | Daan Camps</title>
+    <link>https://campsd.github.io/authors/bert-dejong/</link>
+      <atom:link href="https://campsd.github.io/authors/bert-dejong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wibe A. de Jong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
+      <title>Wibe A. de Jong</title>
+      <link>https://campsd.github.io/authors/bert-dejong/</link>
+    </image>
+    
+    <item>
+      <title>Simulating dirty bosons on a quantum computer</title>
+      <link>https://campsd.github.io/publication/dirty-bosons/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/dirty-bosons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware</title>
+      <link>https://campsd.github.io/publication/hamlib/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/hamlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algebraic Compression of Free Fermionic Quantum Circuits: Particle Creation, Arbitrary Lattices and Controlled Evolution</title>
+      <link>https://campsd.github.io/publication/compression-extensions/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/compression-extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Finite Temperature Properties of Materials with Quantum Computers</title>
+      <link>https://campsd.github.io/publication/tpq/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/tpq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algebraic Compression of Quantum Circuits for Hamiltonian Evolution</title>
+      <link>https://campsd.github.io/publication/f3c-physics/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/f3c-physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algebraic Quantum Circuit Compression Algorithm for Hamiltonian Simulation</title>
+      <link>https://campsd.github.io/publication/f3c-numerics/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/f3c-numerics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemistry on quantum computers with virtual quantum subspace expansion</title>
+      <link>https://campsd.github.io/publication/vqse/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/vqse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

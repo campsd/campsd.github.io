@@ -2,40 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://campsd.github.io/publication_types/3/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/daan-camps/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/qtrace/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/eran-rabani/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/katie-klymko/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/michael-lindsey/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication_types/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/quantum-computing/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/roel-vanbeeumen/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/yizhi-shen/</loc>
+    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication_types/2/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/lbo/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/maxime-dupont/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/dirty-bosons/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/bert-dejong/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/ben-dalfavero/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/k-comm/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/nicolas-sawaya/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/rahul-sarkar/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/ryan-larose/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://campsd.github.io/publication_types/1/</loc>
     <lastmod>2023-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/cost-analysis/</loc>
     <lastmod>2023-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/authors/brian-austin/</loc>
     <lastmod>2023-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/daan-camps/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/katherine-klymko/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/nicholas-j.-wright/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/tags/quantum-computing/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/tags/</loc>
+    <loc>https://campsd.github.io/authors/nick-wright/</loc>
     <lastmod>2023-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/andrew-tritt/</loc>
@@ -46,9 +94,6 @@
   </url><url>
     <loc>https://campsd.github.io/authors/jan-balewski/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/3/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/alicia-b-magann/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
@@ -71,10 +116,7 @@
     <loc>https://campsd.github.io/authors/nathan-bishop/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/nicolas-pd-sawaya/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/norm-m.-tubman/</loc>
+    <loc>https://campsd.github.io/authors/norm-tubman/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/ojas-d-parekh/</loc>
@@ -89,9 +131,6 @@
     <loc>https://campsd.github.io/authors/simon-benjamin/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/wibe-a-de-jong/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/authors/yang-ho/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -104,16 +143,10 @@
     <loc>https://campsd.github.io/publication/odmd/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/roel-vanbeeumen/</loc>
-    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/authors/siva-darbha/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/yizhi-shen/</loc>
-    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/alexander-f.-kemper/</loc>
+    <loc>https://campsd.github.io/authors/lex-kemper/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/compression-extensions/</loc>
@@ -122,20 +155,11 @@
     <loc>https://campsd.github.io/authors/efekan-kokcu/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/lindsay-bassman-oftelie/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/wibe-a.-de-jong/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/authors/neil-mehta/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/qclabpp/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/2/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/connor-powers/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
@@ -154,12 +178,6 @@
   </url><url>
     <loc>https://campsd.github.io/authors/talita-perciano/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/maxime-dupont/</loc>
-    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/dirty-bosons/</loc>
-    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/fable/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
@@ -189,9 +207,6 @@
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/j.-k.-freericks/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/lindsay-bassman/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/software/funfact/</loc>

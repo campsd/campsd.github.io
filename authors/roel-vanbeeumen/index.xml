@@ -5,12 +5,28 @@
     <link>https://campsd.github.io/authors/roel-vanbeeumen/</link>
       <atom:link href="https://campsd.github.io/authors/roel-vanbeeumen/index.xml" rel="self" type="application/rss+xml" />
     <description>Roel Van Beeumen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Daan Camps</copyright><lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Roel Van Beeumen</title>
       <link>https://campsd.github.io/authors/roel-vanbeeumen/</link>
     </image>
+    
+    <item>
+      <title>Efficient Quantum Trace Estimation with Reconfigurable Real-Time Circuits</title>
+      <link>https://campsd.github.io/publication/qtrace/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qtrace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating dirty bosons on a quantum computer</title>
+      <link>https://campsd.github.io/publication/dirty-bosons/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/dirty-bosons/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach</title>
@@ -41,14 +57,6 @@
       <link>https://campsd.github.io/publication/qcrank/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/qcrank/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulating dirty bosons on a quantum computer</title>
-      <link>https://campsd.github.io/publication/dirty-bosons/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/dirty-bosons/</guid>
       <description></description>
     </item>
     

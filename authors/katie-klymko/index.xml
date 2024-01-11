@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine Klymko | Daan Camps</title>
+    <link>https://campsd.github.io/authors/katie-klymko/</link>
+      <atom:link href="https://campsd.github.io/authors/katie-klymko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine Klymko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
+      <title>Katherine Klymko</title>
+      <link>https://campsd.github.io/authors/katie-klymko/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Quantum Trace Estimation with Reconfigurable Real-Time Circuits</title>
+      <link>https://campsd.github.io/publication/qtrace/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qtrace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Performance Model for Estimating the Cost of Scaling to Practical Quantum Advantage</title>
+      <link>https://campsd.github.io/publication/cost-analysis/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/cost-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Quantum Counting and Quantum Content-Addressable Memory for DNA similarity</title>
+      <link>https://campsd.github.io/publication/qcam/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qcam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware</title>
+      <link>https://campsd.github.io/publication/hamlib/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/hamlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach</title>
+      <link>https://campsd.github.io/publication/odmd/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/odmd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
