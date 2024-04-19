@@ -5,12 +5,52 @@
     <link>https://campsd.github.io/tags/quantum-computing/</link>
       <atom:link href="https://campsd.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Quantum Computing</title>
       <link>https://campsd.github.io/tags/quantum-computing/</link>
     </image>
+    
+    <item>
+      <title>False vacuum decay and nucleation dynamics in neutral atom systems</title>
+      <link>https://campsd.github.io/publication/neutral-atom-fvd/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/neutral-atom-fvd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-lived oscillations of false and true vacuum states in neutral atom systems</title>
+      <link>https://campsd.github.io/publication/neutral-atom-llo/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/neutral-atom-llo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering quantum states with neutral atoms</title>
+      <link>https://campsd.github.io/publication/neutral-atom-states/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/neutral-atom-states/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit Quantum Circuits for Block Encodings of Certain Sparse Matrices</title>
+      <link>https://campsd.github.io/publication/explicit-be/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/explicit-be/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-parallel vectorized data encodings and computations on trapped-ions and transmons QPUs</title>
+      <link>https://campsd.github.io/publication/qcrank/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qcrank/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficient Quantum Trace Estimation with Reconfigurable Real-Time Circuits</title>
@@ -93,14 +133,6 @@
     </item>
     
     <item>
-      <title>Quantum-parallel vectorized data encodings and computations on trapped-ions and transmons QPUs</title>
-      <link>https://campsd.github.io/publication/qcrank/</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/qcrank/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FABLE: Fast Approximate Quantum Circuits for Block-Encodings</title>
       <link>https://campsd.github.io/publication/fable/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
@@ -129,14 +161,6 @@
       <link>https://campsd.github.io/publication/qpixl/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/qpixl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explicit Quantum Circuits for Block Encodings of Certain Sparse Matrices</title>
-      <link>https://campsd.github.io/publication/explicit-be/</link>
-      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/explicit-be/</guid>
       <description></description>
     </item>
     
