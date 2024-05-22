@@ -5,7 +5,7 @@
     <link>https://campsd.github.io/tags/quantum-computing/</link>
       <atom:link href="https://campsd.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Mon, 13 May 2024 16:15:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Quantum Computing</title>
@@ -14,10 +14,22 @@
     
     <item>
       <title>Evaluation of the Classical Hardware Requirements for Large-Scale Quantum Computations</title>
+      <link>https://campsd.github.io/talk/2024_isc/</link>
+      <pubDate>Mon, 13 May 2024 16:15:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/2024_isc/</guid>
+      <description>&lt;p&gt;This work won the 
+&lt;a href=&#34;https://www.isc-hpc.com/press-releases/lbnl-researchers-bag-2024-hans-meuer-award-for-work-on-quantum-computations.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans Meuer best research paper award&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the Classical Hardware Requirements for Large-Scale Quantum Computations</title>
       <link>https://campsd.github.io/publication/hardware-evaluation/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/hardware-evaluation/</guid>
-      <description></description>
+      <description>&lt;p&gt;This work won the 
+&lt;a href=&#34;https://www.isc-hpc.com/press-releases/lbnl-researchers-bag-2024-hans-meuer-award-for-work-on-quantum-computations.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans Meuer best research paper award&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,6 +61,14 @@
       <link>https://campsd.github.io/publication/explicit-be/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/explicit-be/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Lieb lattice phase diagram using Rydberg atom quantum simulators</title>
+      <link>https://campsd.github.io/talk/2024_aps_mm/</link>
+      <pubDate>Thu, 07 Mar 2024 13:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/2024_aps_mm/</guid>
       <description></description>
     </item>
     
@@ -86,9 +106,25 @@
     
     <item>
       <title>A Performance Model for Estimating the Cost of Scaling to Practical Quantum Advantage</title>
+      <link>https://campsd.github.io/talk/2023_pmbs/</link>
+      <pubDate>Mon, 13 Nov 2023 17:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/2023_pmbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Performance Model for Estimating the Cost of Scaling to Practical Quantum Advantage</title>
       <link>https://campsd.github.io/publication/cost-analysis/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/cost-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FunFact - Tensor Decomposition, Your Way</title>
+      <link>https://campsd.github.io/talk/2023_iciam/</link>
+      <pubDate>Wed, 23 Aug 2023 12:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/2023_iciam/</guid>
       <description></description>
     </item>
     
@@ -125,6 +161,14 @@
     </item>
     
     <item>
+      <title>Classical and Quantum Strategies to Boost Quantum Subspace Methods</title>
+      <link>https://campsd.github.io/talk/2023_aps_mm/</link>
+      <pubDate>Mon, 06 Mar 2023 17:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/2023_aps_mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QCLAB&#43;&#43;: Simulating Quantum Circuits on GPUs</title>
       <link>https://campsd.github.io/publication/qclabpp/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
@@ -149,18 +193,18 @@
     </item>
     
     <item>
-      <title>IEEE Quantum Week 2022</title>
-      <link>https://campsd.github.io/talk/ieee_qce22/</link>
+      <title>FABLE: Fast Approximate Block-Encodings</title>
+      <link>https://campsd.github.io/talk/2022_ieee_qce/</link>
       <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/ieee_qce22/</guid>
+      <guid>https://campsd.github.io/talk/2022_ieee_qce/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>XXI Householder Symposium on Numerical Linear Algebra</title>
-      <link>https://campsd.github.io/talk/hh_22/</link>
+      <title>Algebraic compression of quantum circuits for Hamiltonian simulation</title>
+      <link>https://campsd.github.io/talk/2022_householder/</link>
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/hh_22/</guid>
+      <guid>https://campsd.github.io/talk/2022_householder/</guid>
       <description></description>
     </item>
     
@@ -229,10 +273,18 @@
     </item>
     
     <item>
-      <title>Computing Sciences Area 2nd Annual Postdoc Symposium</title>
-      <link>https://campsd.github.io/talk/cs_ps_21/</link>
+      <title>Approximate Quantum Circuit Synthesis using Block Encodings</title>
+      <link>https://campsd.github.io/talk/2021_aps_mm/</link>
+      <pubDate>Tue, 16 Mar 2021 11:30:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/2021_aps_mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Quantum Circuit Synthesis using Block Encodings</title>
+      <link>https://campsd.github.io/talk/2021_lbl_cs_symposium/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/cs_ps_21/</guid>
+      <guid>https://campsd.github.io/talk/2021_lbl_cs_symposium/</guid>
       <description></description>
     </item>
     

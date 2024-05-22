@@ -29,6 +29,16 @@
     </item>
     
     <item>
+      <title>Pole swapping methods for the eigenvalue problem - Rational QR algorithms</title>
+      <link>https://campsd.github.io/talk/2019_public_defense/</link>
+      <pubDate>Wed, 11 Sep 2019 16:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/talk/2019_public_defense/</guid>
+      <description>&lt;p&gt;Public PhD defence of dissertation on pole swapping methods for the matrix eigenvalue problem. A high-level overview of the dissertation is included below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;phd-totaal-2019_dc.png&#34; alt=&#34;Pole swapping summary&#34; title=&#34;Pole swapping summary&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pole swapping methods for the eigenvalue problem: Rational QR algorithms</title>
       <link>https://campsd.github.io/publication/phd-thesis/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
@@ -37,10 +47,10 @@
     </item>
     
     <item>
-      <title>Berkeley Lab Seminar</title>
-      <link>https://campsd.github.io/talk/berkeleyseminar/</link>
+      <title>Pole swapping methods for the eigenvalue problem - Rational QR algorithms</title>
+      <link>https://campsd.github.io/talk/2019_lbl_seminar/</link>
       <pubDate>Fri, 06 Sep 2019 09:30:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/berkeleyseminar/</guid>
+      <guid>https://campsd.github.io/talk/2019_lbl_seminar/</guid>
       <description></description>
     </item>
     
@@ -53,18 +63,18 @@
     </item>
     
     <item>
-      <title>ICIAM 2019</title>
-      <link>https://campsd.github.io/talk/iciam19/</link>
+      <title>Pole swapping methods for the eigenvalue problem - Rational QR algorithms</title>
+      <link>https://campsd.github.io/talk/2019_iciam/</link>
       <pubDate>Tue, 16 Jul 2019 11:30:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/iciam19/</guid>
+      <guid>https://campsd.github.io/talk/2019_iciam/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ETNA 25</title>
-      <link>https://campsd.github.io/talk/etna25/</link>
+      <title>Approximate inverse-free rational Krylov methods and the link with FOM and GMRES</title>
+      <link>https://campsd.github.io/talk/2019_etna25/</link>
       <pubDate>Mon, 27 May 2019 12:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/etna25/</guid>
+      <guid>https://campsd.github.io/talk/2019_etna25/</guid>
       <description></description>
     </item>
     
@@ -85,26 +95,26 @@
     </item>
     
     <item>
-      <title>NASCA 2018</title>
-      <link>https://campsd.github.io/talk/nasca/</link>
+      <title>A rational QZ method</title>
+      <link>https://campsd.github.io/talk/2018_nasca/</link>
       <pubDate>Tue, 03 Jul 2018 12:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/nasca/</guid>
+      <guid>https://campsd.github.io/talk/2018_nasca/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SIAM ALA 2018</title>
-      <link>https://campsd.github.io/talk/siamala18/</link>
+      <title>RQZ: A rational QZ method for the generalized eigenvalue problem</title>
+      <link>https://campsd.github.io/talk/2018_siam_ala/</link>
       <pubDate>Sun, 06 May 2018 12:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/siamala18/</guid>
+      <guid>https://campsd.github.io/talk/2018_siam_ala/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NUMA Seminar</title>
-      <link>https://campsd.github.io/talk/numaseminar/</link>
+      <title>Rational matrix algorithms for the generalized eigenvalue problem - Iterative and direct methods</title>
+      <link>https://campsd.github.io/talk/2017_numa_seminar/</link>
       <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/talk/numaseminar/</guid>
+      <guid>https://campsd.github.io/talk/2017_numa_seminar/</guid>
       <description></description>
     </item>
     
