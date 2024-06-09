@@ -5,7 +5,7 @@
     <link>https://campsd.github.io/authors/norm-m.-tubman/</link>
       <atom:link href="https://campsd.github.io/authors/norm-m.-tubman/index.xml" rel="self" type="application/rss+xml" />
     <description>Norm M. Tubman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Daan Camps</copyright><lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Norm M. Tubman</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware</title>
-      <link>https://campsd.github.io/publication/hamlib/</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/hamlib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach</title>
-      <link>https://campsd.github.io/publication/odmd/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/odmd/</guid>
+      <title>Quantum-centric supercomputing for materials science: A perspective on challenges and future directions</title>
+      <link>https://campsd.github.io/publication/qcsc/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qcsc/</guid>
       <description></description>
     </item>
     

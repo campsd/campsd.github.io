@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David S. Watkins | Daan Camps</title>
+    <link>https://campsd.github.io/authors/david-s.-watkins/</link>
+      <atom:link href="https://campsd.github.io/authors/david-s.-watkins/index.xml" rel="self" type="application/rss+xml" />
+    <description>David S. Watkins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
+      <title>David S. Watkins</title>
+      <link>https://campsd.github.io/authors/david-s.-watkins/</link>
+    </image>
+    
+    <item>
+      <title>On pole-swapping algorithms for the eigenvalue problem</title>
+      <link>https://campsd.github.io/publication/ps/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/ps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
