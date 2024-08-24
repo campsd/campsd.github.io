@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://campsd.github.io/publication_types/3/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/daan-camps/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/gramt-m.-rotskoff/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/nicolas-sawaya/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/k-noclid/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/norm-tubman/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication_types/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/quantum-computing/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/ryan-larose/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/katie-klymko/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/niel-van-buggenhout/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/qrt/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/roel-vanbeeumen/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/yizhi-shen/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://campsd.github.io/publication_types/2/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -30,9 +84,6 @@
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/artur-f.-izmaylov/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/barbara-jones/</loc>
@@ -72,12 +123,6 @@
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/cristina-sanz-fernandez/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/daan-camps/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/daniele-ottaviani/</loc>
@@ -177,9 +222,6 @@
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/junyu-liu/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/katie-klymko/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/keisuke-fuji/</loc>
@@ -287,15 +329,6 @@
     <loc>https://campsd.github.io/authors/prineha-narang/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/publication_types/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/tags/quantum-computing/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/publication/qcsc/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -348,9 +381,6 @@
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/synge-todo/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/tags/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/teodoro-laino/</loc>
@@ -431,9 +461,6 @@
     <loc>https://campsd.github.io/authors/nick-wright/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/publication_types/3/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/publication/neutral-atom-fvd/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -453,9 +480,6 @@
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/pedro-lopes/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/roel-vanbeeumen/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/sheng-tao-wang/</loc>
@@ -500,9 +524,6 @@
     <loc>https://campsd.github.io/authors/michael-lindsey/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/yizhi-shen/</loc>
-    <lastmod>2024-01-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/authors/lbo/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -518,13 +539,7 @@
     <loc>https://campsd.github.io/publication/k-comm/</loc>
     <lastmod>2023-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/nicolas-sawaya/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/authors/rahul-sarkar/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/ryan-larose/</loc>
     <lastmod>2023-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/talk/2023_pmbs/</loc>
@@ -561,9 +576,6 @@
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/nathan-bishop/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/norm-tubman/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/ojas-d-parekh/</loc>
