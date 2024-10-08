@@ -2,19 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://campsd.github.io/publication_types/2/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/daan-camps/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/fangli-liu/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/jan-balewski/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/katie-klymko/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/neutral-atom-llo/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/mark-hirsbrunner/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/milan-kornjaca/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/pedro-lopes/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication_types/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/quantum-computing/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/roel-vanbeeumen/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/sheng-tao-wang/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/siva-darbha/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/neutral-atom-fvd/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://campsd.github.io/publication_types/3/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/alex-buzali/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/daan-camps/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/modmd/</loc>
@@ -23,22 +71,7 @@
     <loc>https://campsd.github.io/authors/hong-ye-hu/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/katie-klymko/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/tags/quantum-computing/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/roel-vanbeeumen/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/tags/</loc>
+    <loc>https://campsd.github.io/authors/susanne-f.-yelin/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/yizhi-shen/</loc>
@@ -64,9 +97,6 @@
   </url><url>
     <loc>https://campsd.github.io/publication/qrt/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/2/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/abhishek-mitra/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
@@ -469,33 +499,6 @@
   </url><url>
     <loc>https://campsd.github.io/authors/nick-wright/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/neutral-atom-fvd/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/fangli-liu/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/jan-balewski/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/neutral-atom-llo/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/mark-hirsbrunner/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/milan-kornjaca/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/pedro-lopes/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/sheng-tao-wang/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/siva-darbha/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/neutral-atom-states/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
