@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://campsd.github.io/publication_types/2/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <loc>https://campsd.github.io/publication_types/3/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/daan-camps/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/david-watkins/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/pole-swapping/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication_types/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/raf-vandebril/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/tags/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication/rqr/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/authors/thomas-mach/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://campsd.github.io/publication_types/2/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/fangli-liu/</loc>
@@ -35,12 +62,6 @@
     <loc>https://campsd.github.io/authors/pedro-lopes/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/publication_types/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/tags/quantum-computing/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,14 +74,8 @@
     <loc>https://campsd.github.io/authors/siva-darbha/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/tags/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/publication/neutral-atom-fvd/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/publication_types/3/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/authors/alex-buzali/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
@@ -704,12 +719,6 @@
     <loc>https://campsd.github.io/authors/karl-meerbergen/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/tags/pole-swapping/</loc>
-    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/raf-vandebril/</loc>
-    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/authors/thijs-steel/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -722,13 +731,7 @@
     <loc>https://campsd.github.io/publication/aqcs-be/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://campsd.github.io/authors/david-s.-watkins/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://campsd.github.io/publication/ps/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://campsd.github.io/authors/thomas-mach/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://campsd.github.io/publication/qft/</loc>
