@@ -5,12 +5,36 @@
     <link>https://campsd.github.io/authors/daan-camps/</link>
       <atom:link href="https://campsd.github.io/authors/daan-camps/index.xml" rel="self" type="application/rss+xml" />
     <description>Daan Camps</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Daan Camps</copyright><lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Daan Camps</copyright><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Daan Camps</title>
       <link>https://campsd.github.io/authors/daan-camps/</link>
     </image>
+    
+    <item>
+      <title>Pole-Swapping Algorithms for the Eigenvalue Problem</title>
+      <link>https://campsd.github.io/publication/ps-book/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/ps-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCLAB: A Matlab Toolbox for Quantum Computing</title>
+      <link>https://campsd.github.io/publication/qclab/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qclab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagrammatic Quantum Circuit Compression for Hamiltonian Simulation</title>
+      <link>https://campsd.github.io/publication/compression-zx/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/compression-zx/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The RQR algorithm</title>
