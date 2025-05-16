@@ -21,6 +21,30 @@
     </item>
     
     <item>
+      <title>The RQR algorithm</title>
+      <link>https://campsd.github.io/publication/rqr/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/rqr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCaMP: A 4-Week Summer Camp Introducing High School Students to Quantum Information Science and Technology</title>
+      <link>https://campsd.github.io/publication/qcamp/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Practical Framework for Assessing the Performance of Observable Estimation in Quantum Simulation</title>
+      <link>https://campsd.github.io/publication/qedc-sim-benchmark/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/qedc-sim-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QCLAB: A Matlab Toolbox for Quantum Computing</title>
       <link>https://campsd.github.io/publication/qclab/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
@@ -37,10 +61,10 @@
     </item>
     
     <item>
-      <title>The RQR algorithm</title>
-      <link>https://campsd.github.io/publication/rqr/</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/rqr/</guid>
+      <title>HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware</title>
+      <link>https://campsd.github.io/publication/hamlib/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/hamlib/</guid>
       <description></description>
     </item>
     
@@ -163,14 +187,6 @@
       <link>https://campsd.github.io/publication/qcam/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/qcam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware</title>
-      <link>https://campsd.github.io/publication/hamlib/</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/hamlib/</guid>
       <description></description>
     </item>
     

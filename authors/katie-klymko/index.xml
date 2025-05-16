@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware</title>
+      <link>https://campsd.github.io/publication/hamlib/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/hamlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Long-lived oscillations of metastable states in neutral atom systems</title>
       <link>https://campsd.github.io/publication/neutral-atom-llo/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
@@ -99,14 +107,6 @@
       <link>https://campsd.github.io/publication/qcam/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/qcam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware</title>
-      <link>https://campsd.github.io/publication/hamlib/</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/hamlib/</guid>
       <description></description>
     </item>
     
