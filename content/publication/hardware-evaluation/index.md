@@ -2,7 +2,7 @@
 title: "Evaluation of the Classical Hardware Requirements for Large-Scale Quantum Computations"
 authors:
 - daan-camps
-- Ermal Rrapaj
+- ermal-rrapaj
 - katie-klymko
 - Brian Austin
 - nick-wright

@@ -13,5 +13,5 @@ superuser: false
 social:
 - icon: address-card
   icon_pack: fas
-  link: 'https://www.nersc.gov/about/nersc-staff/data-science-engagement-group/jan-balewski/' 
+  link: 'https://www.nersc.gov/profile/jan-balewski' 
 ---

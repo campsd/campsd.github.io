@@ -13,5 +13,5 @@ superuser: false
 social:
 - icon: address-card
   icon_pack: fas
-  link: 'https://www.nersc.gov/about/nersc-staff/nesap-postdocs/siva-darbha/' 
+  link: 'https://www.nersc.gov/profile/siva-darbha' 
 ---
