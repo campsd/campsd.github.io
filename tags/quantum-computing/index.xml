@@ -5,12 +5,28 @@
     <link>https://campsd.github.io/tags/quantum-computing/</link>
       <atom:link href="https://campsd.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Daan Camps</copyright><lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Daan Camps</copyright><lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Quantum Computing</title>
       <link>https://campsd.github.io/tags/quantum-computing/</link>
     </image>
+    
+    <item>
+      <title>Quantum criticality and nonequilibrium dynamics on a Lieb lattice of Rydberg atoms</title>
+      <link>https://campsd.github.io/publication/neutral-atom-lieb/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/neutral-atom-lieb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quantum computing approach to efficiently simulating correlated materials using impurity models and dynamical mean field theory</title>
+      <link>https://campsd.github.io/publication/partial-compression/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/partial-compression/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>QCaMP: A 4-Week Summer Camp Introducing High School Students to Quantum Information Science and Technology</title>

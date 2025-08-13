@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Steckmann | Daan Camps</title>
+    <link>https://campsd.github.io/authors/thomas-steckmann/</link>
+      <atom:link href="https://campsd.github.io/authors/thomas-steckmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Steckmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Daan Camps</copyright><lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
+      <title>Thomas Steckmann</title>
+      <link>https://campsd.github.io/authors/thomas-steckmann/</link>
+    </image>
+    
+    <item>
+      <title>A quantum computing approach to efficiently simulating correlated materials using impurity models and dynamical mean field theory</title>
+      <link>https://campsd.github.io/publication/partial-compression/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/partial-compression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
