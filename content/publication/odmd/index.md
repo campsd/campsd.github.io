@@ -9,8 +9,8 @@ authors:
 - David B. Williams-Young
 - norm-tubman
 - roel-vanbeeumen
-date: "2023-06-02T00:00:00Z"
-doi: "10.48550/arXiv.2306.01858"
+date: "2025-08-27T00:00:00Z"
+doi: "https://doi.org/10.22331/q-2025-08-27-1836"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Quantum 9, 1836 (2025)."
 publication_short: ""
 
 abstract: Ground state energy estimation in physics and chemistry is one of the most promising applications of quantum computing. In this paper, we introduce a novel measurement-driven approach that finds eigenenergies by collecting real-time measurements and post-processing them using the machinery of dynamic mode decomposition (DMD). We provide theoretical and numerical evidence that our method converges rapidly even in the presence of noise and show that our method is isomorphic to matrix pencil methods developed independently across various scientific communities. Our DMD-based strategy can systematically mitigate perturbative noise and stands out as a promising hybrid quantum-classical eigensolver.

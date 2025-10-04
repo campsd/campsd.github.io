@@ -4,8 +4,8 @@ authors:
 - Sophia Keip
 - daan-camps
 - roel-vanbeeumen
-date: "2025-03-04T00:00:00Z"
-doi: "10.48550/arXiv.2503.03016"
+date: "2025-06-03T00:00:00Z"
+doi: "10.1109/IPDPSW66978.2025.00184"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -14,11 +14,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: " 2025 IEEE International Parallel and Distributed Processing Symposium Workshop"
+publication_short: "IPDPSW"
 
 abstract: We introduce QCLAB, an object-oriented MATLAB toolbox for constructing, representing, and simulating quantum circuits. Designed with an emphasis on numerical stability, efficiency, and performance, QCLAB provides a reliable platform for prototyping and testing quantum algorithms. For advanced performance needs, QCLAB++ serves as a complementary C++ package optimized for GPU-accelerated quantum circuit simulations. Together, QCLAB and QCLAB++ form a comprehensive toolkit, balancing the simplicity of MATLAB scripting with the computational power of GPU acceleration. This paper serves as an introduction to the package and its features along with a hands-on tutorial that invites researchers to explore its capabilities right away.
 
