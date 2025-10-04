@@ -5,12 +5,20 @@
     <link>https://campsd.github.io/publication_types/2/</link>
       <atom:link href="https://campsd.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Daan Camps</copyright><lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Daan Camps</copyright><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://campsd.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach</title>
+      <link>https://campsd.github.io/publication/odmd/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/odmd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The RQR algorithm</title>

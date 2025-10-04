@@ -5,12 +5,28 @@
     <link>https://campsd.github.io/authors/roel-vanbeeumen/</link>
       <atom:link href="https://campsd.github.io/authors/roel-vanbeeumen/index.xml" rel="self" type="application/rss+xml" />
     <description>Roel Van Beeumen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Daan Camps</copyright><lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Daan Camps</copyright><lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://campsd.github.io/images/icon_hu1b2a410f03ddebcbcf7650f4cb2cc747_42417_512x512_fill_lanczos_center_3.png</url>
       <title>Roel Van Beeumen</title>
       <link>https://campsd.github.io/authors/roel-vanbeeumen/</link>
     </image>
+    
+    <item>
+      <title>Quantum Krylov Algorithm for Szegö Quadrature</title>
+      <link>https://campsd.github.io/publication/szego/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/szego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach</title>
+      <link>https://campsd.github.io/publication/odmd/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://campsd.github.io/publication/odmd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A quantum computing approach to efficiently simulating correlated materials using impurity models and dynamical mean field theory</title>
@@ -23,7 +39,7 @@
     <item>
       <title>QCLAB: A Matlab Toolbox for Quantum Computing</title>
       <link>https://campsd.github.io/publication/qclab/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/qclab/</guid>
       <description></description>
     </item>
@@ -89,14 +105,6 @@
       <link>https://campsd.github.io/publication/dirty-bosons/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://campsd.github.io/publication/dirty-bosons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach</title>
-      <link>https://campsd.github.io/publication/odmd/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://campsd.github.io/publication/odmd/</guid>
       <description></description>
     </item>
     
