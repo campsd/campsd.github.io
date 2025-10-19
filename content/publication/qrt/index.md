@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Comparispon between rational and polynomial approximations of the step function'
+  caption: 'Comparison between rational and polynomial approximations of the step function'
   focal_point: ""
   preview_only: false
 

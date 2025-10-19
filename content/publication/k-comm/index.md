@@ -1,13 +1,14 @@
 ---
-title: "k-commutativity and measurement reduction for expectation values"
+title: Measurement reduction for expectation values via fine-grained commutativity"
 authors:
 - Ben DalFavero
 - Rahul Sarkar
+- Jeremiah Rowland
 - daan-camps
 - nicolas-sawaya
 - Ryan LaRose
-date: "2023-12-19T00:00:00Z"
-doi: "10.48550/arXiv.2312.11840"
+date: "2025-10-06T00:00:00Z"
+doi: "https://doi.org/10.1103/y6hl-gzr4"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,11 +17,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Physical Review A"
+publication_short: "Phys. Rev. A"
 
 abstract: We introduce a notion of commutativity between operators on a tensor product space, nominally Pauli strings on qubits, that interpolates between qubit-wise commutativity and (full) commutativity. We apply this notion, which we call k-commutativity, to measuring expectation values of observables in quantum circuits and show a reduction in the number measurements at the cost of increased circuit depth. Last, we discuss the asymptotic measurement complexity of k-commutativity for several families of n-qubit Hamiltonians, showing examples with O(1), O(√n), and O(n) scaling.
 
@@ -46,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Measurement cost of a two-dimensional Fermi-Hubbard Hamiltonian.'
+  caption: 'Scaling of threshold value for different randomly generated Hamiltonians.'
   focal_point: ""
   preview_only: false
 

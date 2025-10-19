@@ -1,5 +1,5 @@
 ---
-title: "Simple Diagonal Designs with Reconfigurable Real-Time Circuits"
+title: "Diagonal state designs with reconfigurable real-time circuits"
 authors:
 - yizhi-shen
 - katie-klymko
@@ -7,8 +7,8 @@ authors:
 - daan-camps
 - roel-vanbeeumen
 - Michael Lindsey
-date: "2024-01-08T00:00:00Z"
-doi: "10.48550/arXiv.2401.04176"
+date: "2025-09-29T00:00:00Z"
+doi: "https://doi.org/10.1103/nb7c-d6kk"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Physical Review Research"
+publication_short: "Phys. Rev. Research"
 
-abstract: Unitary designs are widely used in quantum computation, but in many practical settings it suffices to construct a diagonal state design generated with unitary gates diagonal in the computational basis. In this work, we introduce a simple and efficient diagonal state design based on real-time evolutions. Our construction is inspired by the classical Girard-Hutchinson trace estimator in that it involves the stochastic preparation of random-phase states. Although the exact Girard-Hutchinson states are not tractably implementable on a quantum computer, we can construct states that match the statistical moments of the Girard-Hutchinson states with real-time evolution. Importantly, our random states are all generated using the same Hamiltonians for real-time evolution, with the randomness arising solely from stochastic variations in the durations of the evolutions. In this sense, the circuit is fully reconfigurable and thus suited for near-term realizations on both digital and analog platforms.
+abstract: Unitary designs are widely used in quantum computation, but in many practical settings it suffices to construct a diagonal state design generated with unitary gates diagonal in the computational basis. In this work, we introduce a simple and efficient diagonal state 3-design based on real-time evolutions under 2-local Hamiltonians. Our construction is inspired by the classical Girard-Hutchinson trace estimator in that it involves the stochastic preparation of many random-phase states. Though the exact Girard-Hutchinson states are not tractably implementable on a quantum computer, we can construct states that match the statistical moments of the Girard-Hutchinson states with real-time evolution. Importantly, our random states are all generated using the same Hamiltonians for real-time evolution, with the randomness arising solely from stochastic variations in the durations of the evolutions. In this sense, the circuit is fully reconfigurable and thus suited for near-term realizations on both digital and analog platforms. Moreover, we show how to extend our construction to achieve diagonal state designs of arbitrarily high order.
 
 
 # Summary. An optional shortened abstract.
