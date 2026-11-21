@@ -1,14 +1,15 @@
 ---
-title: "Diagonal state designs with reconfigurable real-time circuits"
+title: "Diagonal State Designs with Reconfigurable Real-Time Circuits"
 authors:
 - yizhi-shen
 - katie-klymko
 - Eran Rabani
+- norm-tubman
 - daan-camps
 - roel-vanbeeumen
 - Michael Lindsey
-date: "2025-09-29T00:00:00Z"
-doi: "https://doi.org/10.1103/nb7c-d6kk"
+date: "2026-01-15T00:00:00Z"
+doi: "10.1103/nb7c-d6kk"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

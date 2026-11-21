@@ -10,7 +10,7 @@ authors:
 - norm-tubman
 - roel-vanbeeumen
 date: "2025-08-27T00:00:00Z"
-doi: "https://doi.org/10.22331/q-2025-08-27-1836"
+doi: "10.22331/q-2025-08-27-1836"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

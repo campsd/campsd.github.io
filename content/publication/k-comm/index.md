@@ -1,5 +1,5 @@
 ---
-title: Measurement reduction for expectation values via fine-grained commutativity"
+title: "Measurement reduction for expectation values via fine-grained commutativity"
 authors:
 - Ben DalFavero
 - Rahul Sarkar
@@ -8,7 +8,7 @@ authors:
 - nicolas-sawaya
 - Ryan LaRose
 date: "2025-10-06T00:00:00Z"
-doi: "https://doi.org/10.1103/y6hl-gzr4"
+doi: "10.1103/y6hl-gzr4"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

@@ -1,5 +1,5 @@
 ---
-title: "Are Randomized Quantum Linear Systems Solvers Practical?"
+title: "The Practicality of Randomized Quantum Linear Systems Solvers"
 authors:
 - Siddharth Hariprakash
 - roel-vanbeeumen

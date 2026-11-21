@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher in Advanced Technologies Group
+role: Principal Quantum Algorithms Architect
 
 # Organizations/Affiliations
 organizations:
-- name: NERSC, Lawrence Berkeley National Laboratory
-  url: "https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/daan-camps/"
+- name: Microsoft Discovery & Quantum
+  url: "https://quantum.microsoft.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum algorithms, numerical linear algebra, tensor factorization methods and machine learning. I'm particularly interested in studying the interface between HPC and quantum computing.
+bio: My research interests include quantum algorithms, numerical linear algebra, tensor factorization methods, high-performance computing, and AI.
 
 interests:
-- Numerical Linear Algebra
 - Quantum Computing and Algorithms
+- Numerical Linear Algebra
 - High Performance Computing (HPC)
-- Machine Learning
+- Machine Learning & AI
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Computer Science and Applied Mathematics
     institution: KU Leuven
     year: 2019
   - course: MSc in Mathematical Engineering
     institution: KU Leuven
     year: 2013
-  - course: MSc in Astronomy
+  - course: MSc in Physics (Astronomy and Astrophysics)
     institution: KU Leuven
     year: 2011
   - course: BSc in Physics
@@ -48,13 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:daan.camps@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:daancamps@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Lal_R_wAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/campsd
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/campsd/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0236-4353
@@ -74,9 +77,8 @@ user_groups:
 - Visitors
 ---
 
-[Daan Camps](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/daan-camps/) is a quantum computing and HPC architecture and performance engineer in the [Advanced Technologies Group](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/) at the [National Energy Research Scientific Computing Center (NERSC)](https://www.nersc.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov). He is interested in exploring the interface between classical HPC systems and emerging quantum computing technology.
+Daan Camps is a Principal Quantum Algorithms Architect at [Microsoft Discovery & Quantum](https://quantum.microsoft.com/). He designs and analyzes quantum algorithms for fault-tolerant quantum computers across scientific and industrial application domains.
 
-Prior to joining NERSC, Daan was a postdoctoral researcher in the Scalable Solvers Group at Lawrence Berkeley National Laboratory. He has completed projects on [quantum compilation, quantum chemistry, and machine learning for nonlinear tensor factorizations](#publications). Daan developed and contributed to multiple open source [software packages](#software).
+Previously, Daan was a Quantum Computing and HPC Architecture and Performance Engineer in the Advanced Technologies Group at the [National Energy Research Scientific Computing Center (NERSC)](https://www.nersc.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov), where he developed NERSC's quantum computing strategy and research program. Prior to joining NERSC, he was a postdoctoral researcher in the Scalable Solvers Group at Lawrence Berkeley National Laboratory. He has authored over 40 [publications](#publications) on quantum algorithms, quantum compilation, quantum simulation, and numerical linear algebra, and has developed and contributed to multiple open-source [software packages](#software).
 
-He holds a PhD in Computer Science from KU Leuven where he introduced
-*pole swapping* algorithms for eigenvalue problems.
+He holds a PhD in Computer Science and Applied Mathematics from KU Leuven, where he introduced *pole-swapping* algorithms for eigenvalue problems.

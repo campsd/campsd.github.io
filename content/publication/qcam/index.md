@@ -6,7 +6,7 @@ authors:
 - katie-klymko
 - Andrew Tritt
 date: "2023-08-01T00:00:00Z"
-doi: "https://doi.org/10.1109/QCE57702.2023.00050"
+doi: "10.1109/QCE57702.2023.00050"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

@@ -1,17 +1,17 @@
 ---
-title: "A Closeness Centrality-based Circuit Partitioner for Quantum Simulations"
+title: "C-3PQ: A Closeness Centrality-based Circuit Partitioner for Quantum Simulations"
 authors:
 - Doru Thom Popovici
 - Harlin Lee
-- Mauro Del Ben
 - Naoki Yoshioka
+- Mauro Del Ben
 - Nobuyasu Ito
 - katie-klymko
 - daan-camps
-- Anastasii Butko
+- Anastasiia Butko
 
-date: "2025-09-18T00:00:00Z"
-doi: "10.48550/arXiv.2509.14098"
+date: "2026-07-05T00:00:00Z"
+doi: "10.1145/3797905.3807864"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,11 +20,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Proceedings of the 40th ACM International Conference on Supercomputing (ICS '26)"
+publication_short: "ICS '26"
 
 abstract: Simulating quantum circuits (QC) on high-performance computing (HPC) systems has become an essential method to benchmark algorithms and probe the potential of large-scale quantum computation despite the limitations of current quantum hardware. However, these simulations often require large amounts of resources, necessitating the use of large clusters with thousands of compute nodes and large memory footprints. In this work, we introduce an end-to-end framework that provides an efficient partitioning scheme for large-scale QCs alongside a flexible code generator to offer a portable solution that minimizes data movement between compute nodes. By formulating the distribution of quantum states and circuits as a graph problem, we apply closeness centrality to assess gate importance and design a fast, scalable partitioning method. The resulting partitions are compiled into highly optimized codes that run seamlessly on a wide range of supercomputers, providing critical insights into the performance and scalability of quantum algorithm simulations.
 

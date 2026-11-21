@@ -19,25 +19,42 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Quantum computing and HPC architecture and perfomance engineer"
+  title = "Principal Quantum Algorithms Architect"
+  company = "Microsoft Discovery & Quantum"
+  company_url = "https://quantum.microsoft.com/"
+  location = "Redmond, Washington"
+  date_start = "2026-06-01"
+  date_end = ""
+  description = """
+  * Design and analyze quantum algorithms for fault-tolerant quantum computers across application domains, including chemistry, materials science, and scientific computing
+  * Develop end-to-end quantum resource estimates and co-design algorithms and architectures with hardware and systems teams
+  * Integrate quantum algorithms with HPC and AI workflows in Microsoft Discovery
+  """
+
+[[experience]]
+  title = "Quantum Computing and HPC Architecture and Performance Engineer"
   company = "NERSC, Lawrence Berkeley National Laboratory"
   company_url = "https://www.nersc.gov/"
   location = "Berkeley, California"
   date_start = "2022-04-04"
-  date_end = ""
+  date_end = "2026-06-01"
   description = """
+  * Led the development and execution of NERSC's quantum computing strategy for DOE Office of Science HPC workloads
+  * Principal investigator on DOE and LDRD research projects; led cross-functional teams and vendor partnerships with IBM Quantum and QuEra Computing
+  * Mentored and supervised postdoctoral researchers and summer interns
   """
+
 [[experience]]
-  title = "Postdoctoral Scholar"
+  title = "Postdoctoral Researcher in Computational Mathematics"
   company = "Lawrence Berkeley National Laboratory"
   company_url = "https://www.lbl.gov/"
   location = "Berkeley, California"
   date_start = "2019-11-01"
   date_end = "2022-04-04"
   description = """
-  Completed projects on:
-  * Quantum algorithms, quantum compilation
-  * Machine learning for nonlinear tensor factorizaions
+  * Researched quantum information and quantum algorithms, with a focus on circuit compilation and synthesis
+  * Completed projects on Hamiltonian simulation, quantum chemistry, quantum linear algebra, and quantum image processing
+  * Developed software for nonlinear tensor factorizations and quantum circuit simulation and compilation
   """
 
 [[experience]]
@@ -51,14 +68,13 @@ date_format = "Jan 2006"
 
 **Dissertation:** Pole swapping methods for the eigenvalue problem --- Rational QR algorithms
 
-* Researched rational Krylov methods for (generalized) eigenvalue problems
-
-* Supervised exercise sessions on numerical mathematics for BSc in Engineering students
+* Researched rational QR and rational Krylov methods for (generalized) eigenvalue problems
+* Supervised exercise sessions on numerical mathematics for BSc in Engineering students and mentored MSc thesis projects
 
   """
 
 [[experience]]
-  title = "Project engineer"
+  title = "Project Engineer"
   company = "IPCOS"
   company_url = "https://ipcos.com/"
   location = "Leuven, Belgium"

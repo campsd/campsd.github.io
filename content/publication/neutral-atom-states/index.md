@@ -10,7 +10,7 @@ authors:
 - fangli-liu
 - daan-camps
 date: "2024-04-05T00:00:00Z"
-doi: "10.48550/arXiv.2404.04411"
+doi: "10.1109/QCE60285.2024.00144"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
